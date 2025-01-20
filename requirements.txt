@@ -1,0 +1,14 @@
+# Streamlit for building the web application
+streamlit
+
+# PHI for agent and AI model handling
+phi
+
+# Groq model for car feature comparison
+phi-groq
+
+# DuckDuckGo for data retrieval
+phi-tools
+
+# Python dotenv for environment variable management
+python-dotenv
