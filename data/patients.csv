@@ -1,0 +1,1001 @@
+id,name,age,location,medical_issue,medical_history,past_doctors,allergies
+P0001,Maria Small,22,Houston,Heart Disease,"Diagnosed with Heart Disease in 2017, under ongoing treatment.",D080,Latex
+P0002,Michael Duncan,68,Miami,Heart Disease,"Diagnosed with Heart Disease in 2018, under ongoing treatment.",D006;D033;D079,Dust
+P0003,Carla Rogers,79,Los Angeles,Allergy,"Diagnosed with Allergy in 2017, under ongoing treatment.",D073;D048;D091,Dust
+P0004,Angela Oneal,40,Seattle,Migraine,"Diagnosed with Migraine in 2021, under ongoing treatment.",D038,Dust
+P0005,Shannon Rodriguez,47,Chicago,Migraine,"Diagnosed with Migraine in 2010, under ongoing treatment.",D056;D011,None
+P0006,Ryan Preston,73,Seattle,Asthma,"Diagnosed with Asthma in 2010, under ongoing treatment.",D082;D097;D023,Dust
+P0007,Crystal Butler,48,Denver,Hypertension,"Diagnosed with Hypertension in 2018, under ongoing treatment.",D023;D036;D017,Dust
+P0008,Justin Hoover,77,Houston,Heart Disease,"Diagnosed with Heart Disease in 2015, under ongoing treatment.",D076,Pollen
+P0009,Gloria Cohen,79,Seattle,Allergy,"Diagnosed with Allergy in 2012, under ongoing treatment.",D092;D096;D005,Penicillin
+P0010,Edward Atkins,49,Seattle,Arthritis,"Diagnosed with Arthritis in 2023, under ongoing treatment.",D048,Pollen
+P0011,Kristopher Diaz,89,New York,Asthma,"Diagnosed with Asthma in 2016, under ongoing treatment.",D051,Latex
+P0012,Douglas Gonzalez,42,Chicago,Allergy,"Diagnosed with Allergy in 2012, under ongoing treatment.",D005;D031;D016,Peanuts
+P0013,Andrew Allen,82,New York,Diabetes,"Diagnosed with Diabetes in 2021, under ongoing treatment.",D084,Dust
+P0014,Michael Webster,59,Seattle,Arthritis,"Diagnosed with Arthritis in 2018, under ongoing treatment.",D022;D015,None
+P0015,Willie Johnson,33,Denver,Hypertension,"Diagnosed with Hypertension in 2011, under ongoing treatment.",D035;D046,Dust
+P0016,Tony Romero,44,New York,Heart Disease,"Diagnosed with Heart Disease in 2019, under ongoing treatment.",D018;D016,Peanuts
+P0017,Joshua Brown,27,Los Angeles,Heart Disease,"Diagnosed with Heart Disease in 2018, under ongoing treatment.",D093;D008,Pollen
+P0018,Mrs. Andrea Mullen,71,Los Angeles,Hypertension,"Diagnosed with Hypertension in 2022, under ongoing treatment.",D006;D075;D059,Dust
+P0019,Yvonne Thompson,89,Seattle,Heart Disease,"Diagnosed with Heart Disease in 2015, under ongoing treatment.",D093;D077,None
+P0020,Jason Jimenez,64,Los Angeles,Diabetes,"Diagnosed with Diabetes in 2011, under ongoing treatment.",D075;D078,Penicillin
+P0021,Christopher Campbell,75,Seattle,Asthma,"Diagnosed with Asthma in 2016, under ongoing treatment.",D083;D067,Pollen
+P0022,Mark Simmons,55,Houston,Arthritis,"Diagnosed with Arthritis in 2013, under ongoing treatment.",D026;D072;D070,Pollen
+P0023,Hannah Collins,61,Chicago,Arthritis,"Diagnosed with Arthritis in 2014, under ongoing treatment.",D080;D025,Dust
+P0024,Valerie Mason,57,Denver,Asthma,"Diagnosed with Asthma in 2022, under ongoing treatment.",D033;D001;D091,Dust
+P0025,Shirley Oconnor,80,New York,Allergy,"Diagnosed with Allergy in 2023, under ongoing treatment.",D002;D079;D091,Dust
+P0026,Elizabeth Brooks,77,Denver,Hypertension,"Diagnosed with Hypertension in 2018, under ongoing treatment.",D014;D018;D052,Peanuts
+P0027,Mitchell Hunter,78,Chicago,Asthma,"Diagnosed with Asthma in 2010, under ongoing treatment.",D022;D041;D012,Penicillin
+P0028,Mary Gonzales,33,Denver,Migraine,"Diagnosed with Migraine in 2016, under ongoing treatment.",D023,Latex
+P0029,Amy Wood,48,Seattle,Arthritis,"Diagnosed with Arthritis in 2019, under ongoing treatment.",D079;D062;D055,Penicillin
+P0030,Eric Anderson,39,Houston,Hypertension,"Diagnosed with Hypertension in 2016, under ongoing treatment.",D056;D031;D057,None
+P0031,John Jones,18,Miami,Heart Disease,"Diagnosed with Heart Disease in 2023, under ongoing treatment.",D038,Dust
+P0032,Gary Oneill,76,New York,Allergy,"Diagnosed with Allergy in 2019, under ongoing treatment.",D045,Latex
+P0033,Robin Randall,59,New York,Arthritis,"Diagnosed with Arthritis in 2013, under ongoing treatment.",D018;D021;D094,Latex
+P0034,Laura Phillips,39,New York,Migraine,"Diagnosed with Migraine in 2011, under ongoing treatment.",D071,Peanuts
+P0035,Diane Carter,76,Chicago,Migraine,"Diagnosed with Migraine in 2018, under ongoing treatment.",D001,Penicillin
+P0036,Katie Gibson,55,Los Angeles,Allergy,"Diagnosed with Allergy in 2022, under ongoing treatment.",D043;D045,Pollen
+P0037,Marco Kerr,52,Chicago,Asthma,"Diagnosed with Asthma in 2010, under ongoing treatment.",D071,Peanuts
+P0038,Jeffery Norton,77,Miami,Migraine,"Diagnosed with Migraine in 2015, under ongoing treatment.",D023;D057,Latex
+P0039,Michael Bennett,73,Denver,Diabetes,"Diagnosed with Diabetes in 2020, under ongoing treatment.",D049;D010,Pollen
+P0040,Sue Anderson,40,New York,Migraine,"Diagnosed with Migraine in 2017, under ongoing treatment.",D026;D057,Penicillin
+P0041,Briana West,66,New York,Migraine,"Diagnosed with Migraine in 2017, under ongoing treatment.",D024,Dust
+P0042,Ricky Carlson,39,Chicago,Asthma,"Diagnosed with Asthma in 2012, under ongoing treatment.",D075;D070;D035,Pollen
+P0043,Mary Myers,77,Los Angeles,Hypertension,"Diagnosed with Hypertension in 2018, under ongoing treatment.",D049;D015,Peanuts
+P0044,Sharon Price,66,Houston,Hypertension,"Diagnosed with Hypertension in 2011, under ongoing treatment.",D100,Pollen
+P0045,Cameron Foster,58,Houston,Asthma,"Diagnosed with Asthma in 2012, under ongoing treatment.",D084;D041,Pollen
+P0046,Brian Alvarez,34,Los Angeles,Heart Disease,"Diagnosed with Heart Disease in 2021, under ongoing treatment.",D005;D013;D019,Latex
+P0047,Jesse Stevens,43,Los Angeles,Asthma,"Diagnosed with Asthma in 2013, under ongoing treatment.",D022,Penicillin
+P0048,Kenneth Bates,78,Denver,Allergy,"Diagnosed with Allergy in 2022, under ongoing treatment.",D049,None
+P0049,George Garcia,31,New York,Heart Disease,"Diagnosed with Heart Disease in 2019, under ongoing treatment.",D059,Penicillin
+P0050,Jacob Gutierrez,89,Denver,Allergy,"Diagnosed with Allergy in 2017, under ongoing treatment.",D007;D033,Pollen
+P0051,Bradley Brown,84,Denver,Heart Disease,"Diagnosed with Heart Disease in 2020, under ongoing treatment.",D095;D100,Pollen
+P0052,Kevin Lewis,58,Miami,Diabetes,"Diagnosed with Diabetes in 2011, under ongoing treatment.",D057;D031,Peanuts
+P0053,Kimberly Gardner,55,New York,Hypertension,"Diagnosed with Hypertension in 2018, under ongoing treatment.",D028,Peanuts
+P0054,James Jackson,43,Seattle,Diabetes,"Diagnosed with Diabetes in 2020, under ongoing treatment.",D055,Dust
+P0055,Marcus Taylor,80,Los Angeles,Hypertension,"Diagnosed with Hypertension in 2010, under ongoing treatment.",D002;D022;D047,Dust
+P0056,Sean Travis,85,Chicago,Asthma,"Diagnosed with Asthma in 2018, under ongoing treatment.",D067,Peanuts
+P0057,Juan Lawson,26,Denver,Migraine,"Diagnosed with Migraine in 2015, under ongoing treatment.",D050,Peanuts
+P0058,Nathan Walker,44,New York,Diabetes,"Diagnosed with Diabetes in 2015, under ongoing treatment.",D056;D029,Peanuts
+P0059,Christian Jones,51,Miami,Allergy,"Diagnosed with Allergy in 2017, under ongoing treatment.",D098;D034,None
+P0060,Philip Taylor,81,Seattle,Heart Disease,"Diagnosed with Heart Disease in 2021, under ongoing treatment.",D091;D048,Penicillin
+P0061,Adriana Miller,89,Miami,Asthma,"Diagnosed with Asthma in 2011, under ongoing treatment.",D007,None
+P0062,Sherry Nguyen,33,Los Angeles,Migraine,"Diagnosed with Migraine in 2023, under ongoing treatment.",D047;D028;D025,Pollen
+P0063,Nicholas Lewis,44,Miami,Heart Disease,"Diagnosed with Heart Disease in 2022, under ongoing treatment.",D046;D061,Peanuts
+P0064,Derrick George,55,Seattle,Migraine,"Diagnosed with Migraine in 2016, under ongoing treatment.",D004;D029,None
+P0065,Amanda Reid,27,New York,Hypertension,"Diagnosed with Hypertension in 2018, under ongoing treatment.",D016,Latex
+P0066,Sarah Rodriguez,36,Denver,Arthritis,"Diagnosed with Arthritis in 2010, under ongoing treatment.",D058;D033;D049,Pollen
+P0067,Donna Sanchez,29,Houston,Diabetes,"Diagnosed with Diabetes in 2013, under ongoing treatment.",D064,Pollen
+P0068,Dawn Nash,80,Seattle,Heart Disease,"Diagnosed with Heart Disease in 2013, under ongoing treatment.",D029;D038;D024,Dust
+P0069,David Thompson,51,New York,Hypertension,"Diagnosed with Hypertension in 2018, under ongoing treatment.",D035;D089,Latex
+P0070,Carmen Norton,54,Chicago,Asthma,"Diagnosed with Asthma in 2017, under ongoing treatment.",D035;D015,Dust
+P0071,William Rogers,25,Seattle,Asthma,"Diagnosed with Asthma in 2022, under ongoing treatment.",D059;D090;D078,Pollen
+P0072,Joshua Singh,43,Miami,Heart Disease,"Diagnosed with Heart Disease in 2019, under ongoing treatment.",D027;D030,Pollen
+P0073,Michelle Robinson,79,Houston,Allergy,"Diagnosed with Allergy in 2014, under ongoing treatment.",D035;D043,Penicillin
+P0074,Wesley Moore,87,Seattle,Migraine,"Diagnosed with Migraine in 2012, under ongoing treatment.",D017;D061;D012,Dust
+P0075,Ryan Lewis,55,New York,Hypertension,"Diagnosed with Hypertension in 2016, under ongoing treatment.",D064;D086;D026,Dust
+P0076,Monica Holland,66,Denver,Migraine,"Diagnosed with Migraine in 2016, under ongoing treatment.",D023;D014;D070,Penicillin
+P0077,Marcus French,66,Houston,Hypertension,"Diagnosed with Hypertension in 2013, under ongoing treatment.",D016,Peanuts
+P0078,Rebecca White,20,Seattle,Heart Disease,"Diagnosed with Heart Disease in 2012, under ongoing treatment.",D100;D096;D049,Penicillin
+P0079,Jennifer Leon,25,Denver,Migraine,"Diagnosed with Migraine in 2013, under ongoing treatment.",D041;D006;D059,Pollen
+P0080,Laurie Hall,41,Denver,Migraine,"Diagnosed with Migraine in 2018, under ongoing treatment.",D025;D071;D088,Latex
+P0081,Sabrina Watson,83,Miami,Migraine,"Diagnosed with Migraine in 2011, under ongoing treatment.",D060;D084;D095,Penicillin
+P0082,Alexander Martin,45,New York,Migraine,"Diagnosed with Migraine in 2012, under ongoing treatment.",D046,Penicillin
+P0083,Cheryl Wright,38,Seattle,Allergy,"Diagnosed with Allergy in 2017, under ongoing treatment.",D078;D047;D046,Dust
+P0084,Rachel Snyder,69,Houston,Heart Disease,"Diagnosed with Heart Disease in 2019, under ongoing treatment.",D095;D085,Pollen
+P0085,Alexandra Flynn,66,Chicago,Allergy,"Diagnosed with Allergy in 2011, under ongoing treatment.",D014;D077;D062,Penicillin
+P0086,Joanna Nelson,87,Chicago,Diabetes,"Diagnosed with Diabetes in 2013, under ongoing treatment.",D025;D018,Peanuts
+P0087,Jerry Mclaughlin,73,Los Angeles,Arthritis,"Diagnosed with Arthritis in 2011, under ongoing treatment.",D072;D097,Dust
+P0088,Sarah Schultz,60,Denver,Hypertension,"Diagnosed with Hypertension in 2013, under ongoing treatment.",D026;D067;D016,None
+P0089,Mark Nunez,87,New York,Arthritis,"Diagnosed with Arthritis in 2019, under ongoing treatment.",D094,Latex
+P0090,Douglas Perez,52,Chicago,Hypertension,"Diagnosed with Hypertension in 2013, under ongoing treatment.",D028;D022,Penicillin
+P0091,Bradley Martinez,45,Los Angeles,Migraine,"Diagnosed with Migraine in 2015, under ongoing treatment.",D059,Penicillin
+P0092,Michelle Harper,75,Denver,Migraine,"Diagnosed with Migraine in 2015, under ongoing treatment.",D081;D032;D050,Pollen
+P0093,Dalton Ewing,72,Houston,Asthma,"Diagnosed with Asthma in 2018, under ongoing treatment.",D087;D074;D091,Pollen
+P0094,Felicia Haney,32,Houston,Asthma,"Diagnosed with Asthma in 2012, under ongoing treatment.",D067;D009,Peanuts
+P0095,Jacob Fox,54,Houston,Arthritis,"Diagnosed with Arthritis in 2021, under ongoing treatment.",D045;D095,Penicillin
+P0096,Christy Anderson,63,New York,Asthma,"Diagnosed with Asthma in 2012, under ongoing treatment.",D019;D024;D097,Pollen
+P0097,Carl Pope,59,New York,Heart Disease,"Diagnosed with Heart Disease in 2016, under ongoing treatment.",D027;D051,Dust
+P0098,Carol Wilson,77,Miami,Allergy,"Diagnosed with Allergy in 2013, under ongoing treatment.",D035,Latex
+P0099,Mallory Carrillo,73,Seattle,Migraine,"Diagnosed with Migraine in 2021, under ongoing treatment.",D010;D088,Dust
+P0100,Chris Newman,59,Denver,Hypertension,"Diagnosed with Hypertension in 2018, under ongoing treatment.",D023,None
+P0101,Wanda Ramos,29,Los Angeles,Heart Disease,"Diagnosed with Heart Disease in 2022, under ongoing treatment.",D022;D049,None
+P0102,Jon Walker,82,Miami,Migraine,"Diagnosed with Migraine in 2014, under ongoing treatment.",D090,None
+P0103,Sabrina Reid,52,Chicago,Heart Disease,"Diagnosed with Heart Disease in 2019, under ongoing treatment.",D063;D038,Pollen
+P0104,Juan Villegas,90,Houston,Diabetes,"Diagnosed with Diabetes in 2021, under ongoing treatment.",D089;D058,Penicillin
+P0105,Laura Newman,78,Seattle,Asthma,"Diagnosed with Asthma in 2010, under ongoing treatment.",D028;D037;D081,None
+P0106,Alex Gonzales,64,Chicago,Migraine,"Diagnosed with Migraine in 2019, under ongoing treatment.",D066;D092,Peanuts
+P0107,William Dean,79,Houston,Diabetes,"Diagnosed with Diabetes in 2015, under ongoing treatment.",D081,None
+P0108,Dustin Reynolds,41,Denver,Asthma,"Diagnosed with Asthma in 2017, under ongoing treatment.",D094,None
+P0109,Sarah Hernandez,48,Chicago,Diabetes,"Diagnosed with Diabetes in 2015, under ongoing treatment.",D049;D048;D065,None
+P0110,Tracey Smith,23,Miami,Migraine,"Diagnosed with Migraine in 2023, under ongoing treatment.",D083,Penicillin
+P0111,Zachary Rollins,26,Los Angeles,Heart Disease,"Diagnosed with Heart Disease in 2018, under ongoing treatment.",D094;D096;D009,Latex
+P0112,Stephanie Armstrong,45,Houston,Asthma,"Diagnosed with Asthma in 2021, under ongoing treatment.",D082;D023,Latex
+P0113,Mike Hardy,19,New York,Arthritis,"Diagnosed with Arthritis in 2014, under ongoing treatment.",D002;D092,Pollen
+P0114,Katherine Simpson,26,Chicago,Migraine,"Diagnosed with Migraine in 2011, under ongoing treatment.",D058;D002,Penicillin
+P0115,Holly Perry,77,Houston,Diabetes,"Diagnosed with Diabetes in 2010, under ongoing treatment.",D059;D028,Pollen
+P0116,Gregory Ramirez,74,Denver,Hypertension,"Diagnosed with Hypertension in 2017, under ongoing treatment.",D004;D062;D038,Dust
+P0117,Oscar Riley,80,New York,Diabetes,"Diagnosed with Diabetes in 2015, under ongoing treatment.",D038;D006,Penicillin
+P0118,Brian Gilbert,18,Seattle,Allergy,"Diagnosed with Allergy in 2012, under ongoing treatment.",D065;D096;D022,Peanuts
+P0119,Susan Heath,76,Seattle,Heart Disease,"Diagnosed with Heart Disease in 2016, under ongoing treatment.",D053,Penicillin
+P0120,Theresa Brown,59,Denver,Migraine,"Diagnosed with Migraine in 2019, under ongoing treatment.",D075;D035;D022,Latex
+P0121,Joseph Marshall,36,Seattle,Hypertension,"Diagnosed with Hypertension in 2015, under ongoing treatment.",D054;D034,Penicillin
+P0122,George Sweeney,22,Los Angeles,Diabetes,"Diagnosed with Diabetes in 2019, under ongoing treatment.",D055;D068,Peanuts
+P0123,Eric Valdez,63,Miami,Hypertension,"Diagnosed with Hypertension in 2010, under ongoing treatment.",D036;D056,Pollen
+P0124,Mrs. Michelle Holder,59,Houston,Diabetes,"Diagnosed with Diabetes in 2012, under ongoing treatment.",D085,Peanuts
+P0125,Melissa Kelly,18,Miami,Allergy,"Diagnosed with Allergy in 2020, under ongoing treatment.",D070,Latex
+P0126,Jennifer Richardson,84,Miami,Asthma,"Diagnosed with Asthma in 2015, under ongoing treatment.",D058,Penicillin
+P0127,Dennis Morris,65,Chicago,Diabetes,"Diagnosed with Diabetes in 2017, under ongoing treatment.",D051;D036,Pollen
+P0128,Eric Jennings,63,Houston,Heart Disease,"Diagnosed with Heart Disease in 2018, under ongoing treatment.",D016,Dust
+P0129,Kenneth Webb,58,Miami,Asthma,"Diagnosed with Asthma in 2013, under ongoing treatment.",D079;D052;D067,Dust
+P0130,Kayla Norman,45,New York,Diabetes,"Diagnosed with Diabetes in 2022, under ongoing treatment.",D010,Pollen
+P0131,Richard Hendricks,63,Denver,Asthma,"Diagnosed with Asthma in 2012, under ongoing treatment.",D055;D087;D058,None
+P0132,Elizabeth Harris,54,Miami,Arthritis,"Diagnosed with Arthritis in 2010, under ongoing treatment.",D095;D001,None
+P0133,Ashley Valdez,46,New York,Migraine,"Diagnosed with Migraine in 2020, under ongoing treatment.",D100,Latex
+P0134,Willie Cannon,78,Houston,Diabetes,"Diagnosed with Diabetes in 2017, under ongoing treatment.",D013,Penicillin
+P0135,Tracy Thompson,59,New York,Migraine,"Diagnosed with Migraine in 2019, under ongoing treatment.",D076;D018;D012,None
+P0136,Sandra Bray,35,Los Angeles,Asthma,"Diagnosed with Asthma in 2012, under ongoing treatment.",D097;D095;D019,Latex
+P0137,Daniel Sandoval,44,Miami,Arthritis,"Diagnosed with Arthritis in 2012, under ongoing treatment.",D064,Dust
+P0138,Kimberly Hahn,61,Seattle,Migraine,"Diagnosed with Migraine in 2012, under ongoing treatment.",D013,Pollen
+P0139,Jessica Parker,37,Seattle,Diabetes,"Diagnosed with Diabetes in 2017, under ongoing treatment.",D100,None
+P0140,Jimmy Ortiz,74,Seattle,Allergy,"Diagnosed with Allergy in 2019, under ongoing treatment.",D059;D043,Penicillin
+P0141,Robert Jones,51,Seattle,Diabetes,"Diagnosed with Diabetes in 2012, under ongoing treatment.",D070,Peanuts
+P0142,Terry Murray,62,Denver,Migraine,"Diagnosed with Migraine in 2014, under ongoing treatment.",D062;D034,Peanuts
+P0143,Emily Williams,37,Houston,Asthma,"Diagnosed with Asthma in 2011, under ongoing treatment.",D033,Penicillin
+P0144,Aaron Flores,34,Denver,Asthma,"Diagnosed with Asthma in 2018, under ongoing treatment.",D008;D069,Peanuts
+P0145,Thomas Williams,68,Houston,Allergy,"Diagnosed with Allergy in 2020, under ongoing treatment.",D027;D019;D037,Pollen
+P0146,Anthony Brown,64,Miami,Allergy,"Diagnosed with Allergy in 2021, under ongoing treatment.",D084;D008;D046,Latex
+P0147,Lisa Howard,85,Houston,Heart Disease,"Diagnosed with Heart Disease in 2010, under ongoing treatment.",D100;D059;D007,None
+P0148,Jonathan Yates,87,New York,Hypertension,"Diagnosed with Hypertension in 2017, under ongoing treatment.",D036;D051;D032,Penicillin
+P0149,John Frank,38,Los Angeles,Asthma,"Diagnosed with Asthma in 2012, under ongoing treatment.",D092,Penicillin
+P0150,Scott Martinez,33,Seattle,Diabetes,"Diagnosed with Diabetes in 2013, under ongoing treatment.",D031;D010;D085,None
+P0151,Rebecca Contreras,24,Seattle,Heart Disease,"Diagnosed with Heart Disease in 2023, under ongoing treatment.",D045;D052,Dust
+P0152,Peter Espinoza,90,Denver,Diabetes,"Diagnosed with Diabetes in 2011, under ongoing treatment.",D007;D088;D035,Peanuts
+P0153,Austin Anderson,27,Los Angeles,Diabetes,"Diagnosed with Diabetes in 2016, under ongoing treatment.",D083,Pollen
+P0154,Kathleen Mathews,34,Chicago,Migraine,"Diagnosed with Migraine in 2019, under ongoing treatment.",D071;D095,Penicillin
+P0155,Jeffery Hunt,88,Miami,Allergy,"Diagnosed with Allergy in 2013, under ongoing treatment.",D082;D026;D007,Penicillin
+P0156,Courtney Diaz,38,Seattle,Hypertension,"Diagnosed with Hypertension in 2022, under ongoing treatment.",D075,Dust
+P0157,Richard Foster,55,Miami,Allergy,"Diagnosed with Allergy in 2014, under ongoing treatment.",D095;D041;D024,Penicillin
+P0158,Nichole Francis,81,New York,Migraine,"Diagnosed with Migraine in 2017, under ongoing treatment.",D013;D097,Dust
+P0159,Brianna Smith,53,Miami,Migraine,"Diagnosed with Migraine in 2021, under ongoing treatment.",D020;D005;D017,Penicillin
+P0160,Jenny Roberts,24,Los Angeles,Migraine,"Diagnosed with Migraine in 2015, under ongoing treatment.",D019;D098,Dust
+P0161,Alexandria Escobar,19,Seattle,Asthma,"Diagnosed with Asthma in 2018, under ongoing treatment.",D086;D041,Pollen
+P0162,Caitlyn Brown,34,Houston,Heart Disease,"Diagnosed with Heart Disease in 2021, under ongoing treatment.",D093;D086,Pollen
+P0163,Shawn Ford,19,Denver,Asthma,"Diagnosed with Asthma in 2020, under ongoing treatment.",D085,Dust
+P0164,John Meyer,72,Houston,Arthritis,"Diagnosed with Arthritis in 2018, under ongoing treatment.",D065;D067,Penicillin
+P0165,Raymond Love,26,Los Angeles,Migraine,"Diagnosed with Migraine in 2012, under ongoing treatment.",D056;D025,Dust
+P0166,Justin Anderson,80,Chicago,Allergy,"Diagnosed with Allergy in 2016, under ongoing treatment.",D051,Pollen
+P0167,Darrell White,61,Houston,Migraine,"Diagnosed with Migraine in 2011, under ongoing treatment.",D006;D025;D058,Penicillin
+P0168,Adam Black,70,Houston,Diabetes,"Diagnosed with Diabetes in 2023, under ongoing treatment.",D028;D087,Pollen
+P0169,Sabrina Jones,39,Houston,Migraine,"Diagnosed with Migraine in 2023, under ongoing treatment.",D075,None
+P0170,Amanda Keller,49,Chicago,Arthritis,"Diagnosed with Arthritis in 2023, under ongoing treatment.",D003;D051,None
+P0171,Melvin Smith,76,Houston,Migraine,"Diagnosed with Migraine in 2017, under ongoing treatment.",D048;D089;D009,Peanuts
+P0172,Shawn Williams,43,Denver,Allergy,"Diagnosed with Allergy in 2011, under ongoing treatment.",D082;D049;D077,Pollen
+P0173,Denise Scott,61,Chicago,Arthritis,"Diagnosed with Arthritis in 2019, under ongoing treatment.",D032;D078,Latex
+P0174,Selena Hart,85,Chicago,Diabetes,"Diagnosed with Diabetes in 2023, under ongoing treatment.",D048,Pollen
+P0175,Isaiah Cole,90,Miami,Hypertension,"Diagnosed with Hypertension in 2015, under ongoing treatment.",D089,None
+P0176,Thomas Campbell,76,Denver,Arthritis,"Diagnosed with Arthritis in 2021, under ongoing treatment.",D059,None
+P0177,Ricky Woods,56,Houston,Asthma,"Diagnosed with Asthma in 2015, under ongoing treatment.",D014,Peanuts
+P0178,Jennifer Sanders,79,Chicago,Allergy,"Diagnosed with Allergy in 2022, under ongoing treatment.",D073,None
+P0179,Deanna Jones,30,Miami,Hypertension,"Diagnosed with Hypertension in 2015, under ongoing treatment.",D055;D095;D093,Penicillin
+P0180,Tony Watson,41,Seattle,Asthma,"Diagnosed with Asthma in 2014, under ongoing treatment.",D050,Penicillin
+P0181,Carmen Harrell,47,Los Angeles,Arthritis,"Diagnosed with Arthritis in 2010, under ongoing treatment.",D030;D021,Pollen
+P0182,Anna Rodriguez,77,Seattle,Heart Disease,"Diagnosed with Heart Disease in 2011, under ongoing treatment.",D061;D050,Penicillin
+P0183,Jesse Cox,61,New York,Diabetes,"Diagnosed with Diabetes in 2023, under ongoing treatment.",D004;D083,Penicillin
+P0184,Stephen Hill,76,Seattle,Hypertension,"Diagnosed with Hypertension in 2012, under ongoing treatment.",D077;D078,Pollen
+P0185,Susan Cain,18,Los Angeles,Allergy,"Diagnosed with Allergy in 2016, under ongoing treatment.",D076,Peanuts
+P0186,Vincent Sampson,80,Chicago,Migraine,"Diagnosed with Migraine in 2020, under ongoing treatment.",D057,Pollen
+P0187,Chase Flores,21,Denver,Allergy,"Diagnosed with Allergy in 2021, under ongoing treatment.",D085;D061;D032,Dust
+P0188,Shawn Johnson,32,Houston,Heart Disease,"Diagnosed with Heart Disease in 2010, under ongoing treatment.",D020;D072;D084,Dust
+P0189,Steven Henderson,30,Los Angeles,Heart Disease,"Diagnosed with Heart Disease in 2010, under ongoing treatment.",D063,Dust
+P0190,Mason Rogers,74,Houston,Asthma,"Diagnosed with Asthma in 2015, under ongoing treatment.",D070,Dust
+P0191,Christopher Luna,37,Seattle,Heart Disease,"Diagnosed with Heart Disease in 2011, under ongoing treatment.",D072;D060;D034,Latex
+P0192,Charles Thompson,40,Miami,Diabetes,"Diagnosed with Diabetes in 2017, under ongoing treatment.",D066;D086;D011,Dust
+P0193,Patrick Fletcher,19,Houston,Asthma,"Diagnosed with Asthma in 2021, under ongoing treatment.",D033;D059;D032,Penicillin
+P0194,Casey Sullivan,20,Los Angeles,Asthma,"Diagnosed with Asthma in 2021, under ongoing treatment.",D023;D047;D036,Latex
+P0195,Adam Bennett,22,Miami,Heart Disease,"Diagnosed with Heart Disease in 2010, under ongoing treatment.",D048,Peanuts
+P0196,Dr. Kayla Griffith,87,New York,Asthma,"Diagnosed with Asthma in 2019, under ongoing treatment.",D033;D052;D059,Peanuts
+P0197,Diana Armstrong,49,Seattle,Arthritis,"Diagnosed with Arthritis in 2011, under ongoing treatment.",D001;D022;D023,Pollen
+P0198,Glenn Aguirre,63,Seattle,Allergy,"Diagnosed with Allergy in 2011, under ongoing treatment.",D052;D058;D003,Latex
+P0199,Jonathan Hopkins,82,Miami,Arthritis,"Diagnosed with Arthritis in 2012, under ongoing treatment.",D075,None
+P0200,Shawn Weiss,52,Miami,Allergy,"Diagnosed with Allergy in 2014, under ongoing treatment.",D060,Pollen
+P0201,Michael Contreras,49,New York,Heart Disease,"Diagnosed with Heart Disease in 2014, under ongoing treatment.",D051,Dust
+P0202,Robert Garcia,78,Miami,Migraine,"Diagnosed with Migraine in 2020, under ongoing treatment.",D049;D078,Pollen
+P0203,Ronald Russell,25,Houston,Arthritis,"Diagnosed with Arthritis in 2014, under ongoing treatment.",D045;D098;D084,Penicillin
+P0204,Mrs. Heidi Willis,85,Chicago,Heart Disease,"Diagnosed with Heart Disease in 2013, under ongoing treatment.",D020;D061;D017,Pollen
+P0205,Raymond White,37,Los Angeles,Hypertension,"Diagnosed with Hypertension in 2021, under ongoing treatment.",D074;D080;D096,None
+P0206,Ashley Schmidt,33,Seattle,Asthma,"Diagnosed with Asthma in 2012, under ongoing treatment.",D044;D069;D097,Peanuts
+P0207,Justin Williamson,83,Denver,Heart Disease,"Diagnosed with Heart Disease in 2017, under ongoing treatment.",D072;D100,Dust
+P0208,Brian Gibson,66,New York,Allergy,"Diagnosed with Allergy in 2021, under ongoing treatment.",D041;D062;D097,Peanuts
+P0209,Bethany Carter,72,Miami,Allergy,"Diagnosed with Allergy in 2011, under ongoing treatment.",D099;D080;D092,Penicillin
+P0210,Patricia Johnson,50,Seattle,Arthritis,"Diagnosed with Arthritis in 2018, under ongoing treatment.",D025;D003,None
+P0211,Ashlee Maddox,22,Seattle,Heart Disease,"Diagnosed with Heart Disease in 2023, under ongoing treatment.",D062;D037,None
+P0212,Mark Collins,28,Houston,Asthma,"Diagnosed with Asthma in 2013, under ongoing treatment.",D037;D065,None
+P0213,Nathan Gray,26,Denver,Allergy,"Diagnosed with Allergy in 2010, under ongoing treatment.",D068;D058,Latex
+P0214,Jeffery Koch,65,Houston,Arthritis,"Diagnosed with Arthritis in 2013, under ongoing treatment.",D062;D076,Peanuts
+P0215,Larry Sexton,72,Seattle,Asthma,"Diagnosed with Asthma in 2012, under ongoing treatment.",D091,Penicillin
+P0216,Emily Evans,44,Chicago,Allergy,"Diagnosed with Allergy in 2014, under ongoing treatment.",D020;D096,Latex
+P0217,Thomas Rowe,80,Chicago,Hypertension,"Diagnosed with Hypertension in 2012, under ongoing treatment.",D084;D073,Peanuts
+P0218,Alan Harris,43,Los Angeles,Diabetes,"Diagnosed with Diabetes in 2010, under ongoing treatment.",D083,Latex
+P0219,Stephanie Burns,58,Denver,Hypertension,"Diagnosed with Hypertension in 2016, under ongoing treatment.",D081,Pollen
+P0220,Logan Evans,32,Denver,Arthritis,"Diagnosed with Arthritis in 2016, under ongoing treatment.",D033;D094;D070,Dust
+P0221,Thomas Nelson,66,Miami,Hypertension,"Diagnosed with Hypertension in 2022, under ongoing treatment.",D086,Peanuts
+P0222,Nancy Payne,60,New York,Asthma,"Diagnosed with Asthma in 2020, under ongoing treatment.",D075;D053;D066,Penicillin
+P0223,Emily Garza,54,Seattle,Allergy,"Diagnosed with Allergy in 2023, under ongoing treatment.",D059,Penicillin
+P0224,Betty Barker,44,Denver,Arthritis,"Diagnosed with Arthritis in 2015, under ongoing treatment.",D010,Dust
+P0225,Louis Barnes,73,Denver,Allergy,"Diagnosed with Allergy in 2021, under ongoing treatment.",D031;D064;D007,Pollen
+P0226,Mary Gonzalez,28,Houston,Arthritis,"Diagnosed with Arthritis in 2020, under ongoing treatment.",D078,Latex
+P0227,Maria Lindsey,51,Denver,Heart Disease,"Diagnosed with Heart Disease in 2022, under ongoing treatment.",D019;D023,None
+P0228,Donna Vincent,90,Los Angeles,Arthritis,"Diagnosed with Arthritis in 2017, under ongoing treatment.",D069,Pollen
+P0229,Melanie Rodriguez,90,Los Angeles,Allergy,"Diagnosed with Allergy in 2017, under ongoing treatment.",D017;D095,Pollen
+P0230,Laura Hudson,62,Houston,Allergy,"Diagnosed with Allergy in 2021, under ongoing treatment.",D013;D020,None
+P0231,Timothy Jones,60,Chicago,Asthma,"Diagnosed with Asthma in 2023, under ongoing treatment.",D038;D081,Latex
+P0232,Cheryl Armstrong,65,Chicago,Migraine,"Diagnosed with Migraine in 2011, under ongoing treatment.",D098;D055;D090,Latex
+P0233,Kayla Jackson,69,New York,Migraine,"Diagnosed with Migraine in 2017, under ongoing treatment.",D094;D017;D044,Pollen
+P0234,Kayla Patrick,61,Houston,Diabetes,"Diagnosed with Diabetes in 2022, under ongoing treatment.",D036;D096;D009,None
+P0235,Beth Berger,33,Chicago,Diabetes,"Diagnosed with Diabetes in 2012, under ongoing treatment.",D017;D033,Penicillin
+P0236,Rachel Humphrey,75,Miami,Asthma,"Diagnosed with Asthma in 2017, under ongoing treatment.",D022;D033,Penicillin
+P0237,Joe Gross,51,Denver,Diabetes,"Diagnosed with Diabetes in 2013, under ongoing treatment.",D062,Penicillin
+P0238,Richard Perry,56,Los Angeles,Migraine,"Diagnosed with Migraine in 2010, under ongoing treatment.",D098,Pollen
+P0239,Carol Figueroa,77,Houston,Allergy,"Diagnosed with Allergy in 2013, under ongoing treatment.",D074;D082,Penicillin
+P0240,Megan Klein,51,Los Angeles,Heart Disease,"Diagnosed with Heart Disease in 2019, under ongoing treatment.",D067,Peanuts
+P0241,Michael Caldwell,53,Denver,Allergy,"Diagnosed with Allergy in 2012, under ongoing treatment.",D051;D066;D011,Dust
+P0242,Alexander Williams,35,Miami,Asthma,"Diagnosed with Asthma in 2021, under ongoing treatment.",D098,Dust
+P0243,Bryan Pierce,36,Miami,Allergy,"Diagnosed with Allergy in 2019, under ongoing treatment.",D053,Peanuts
+P0244,Lisa Jensen,89,Chicago,Heart Disease,"Diagnosed with Heart Disease in 2021, under ongoing treatment.",D041,Latex
+P0245,Chelsea Madden,65,Houston,Arthritis,"Diagnosed with Arthritis in 2012, under ongoing treatment.",D002;D046,None
+P0246,Patrick George,90,Los Angeles,Arthritis,"Diagnosed with Arthritis in 2010, under ongoing treatment.",D004;D025,Pollen
+P0247,Jon Brooks,89,New York,Diabetes,"Diagnosed with Diabetes in 2020, under ongoing treatment.",D032;D088;D001,Peanuts
+P0248,Jeremy Ramos,86,Houston,Arthritis,"Diagnosed with Arthritis in 2014, under ongoing treatment.",D049;D055;D094,Peanuts
+P0249,Jennifer Kim,50,Los Angeles,Hypertension,"Diagnosed with Hypertension in 2022, under ongoing treatment.",D076;D077;D099,Dust
+P0250,Jessica Green,36,Denver,Hypertension,"Diagnosed with Hypertension in 2019, under ongoing treatment.",D093;D090;D084,Peanuts
+P0251,Taylor Dillon,18,Chicago,Diabetes,"Diagnosed with Diabetes in 2014, under ongoing treatment.",D005,Latex
+P0252,Rachel Chapman,62,Houston,Hypertension,"Diagnosed with Hypertension in 2022, under ongoing treatment.",D084,Peanuts
+P0253,Kelly Waller,19,Denver,Allergy,"Diagnosed with Allergy in 2011, under ongoing treatment.",D068,Latex
+P0254,Cody Martin,66,Los Angeles,Allergy,"Diagnosed with Allergy in 2020, under ongoing treatment.",D001,Dust
+P0255,Kevin Rodriguez DDS,85,Los Angeles,Hypertension,"Diagnosed with Hypertension in 2017, under ongoing treatment.",D054;D028,Penicillin
+P0256,Jessica Warren,36,Seattle,Diabetes,"Diagnosed with Diabetes in 2012, under ongoing treatment.",D024;D050;D093,None
+P0257,Christine Friedman,23,Los Angeles,Diabetes,"Diagnosed with Diabetes in 2023, under ongoing treatment.",D086;D004,Pollen
+P0258,Tiffany Phillips,46,Los Angeles,Allergy,"Diagnosed with Allergy in 2019, under ongoing treatment.",D044;D023;D008,Peanuts
+P0259,Christopher Garrison,70,Los Angeles,Allergy,"Diagnosed with Allergy in 2014, under ongoing treatment.",D010,Dust
+P0260,Nancy Chase,50,Miami,Hypertension,"Diagnosed with Hypertension in 2021, under ongoing treatment.",D056,Penicillin
+P0261,Cheryl Lynch,38,Denver,Asthma,"Diagnosed with Asthma in 2023, under ongoing treatment.",D027;D050,None
+P0262,Miguel Miles,22,Seattle,Diabetes,"Diagnosed with Diabetes in 2016, under ongoing treatment.",D030,Latex
+P0263,Drew Quinn,18,Chicago,Migraine,"Diagnosed with Migraine in 2023, under ongoing treatment.",D075;D069;D088,Peanuts
+P0264,Daniel Price,20,Seattle,Migraine,"Diagnosed with Migraine in 2022, under ongoing treatment.",D013;D024;D030,Latex
+P0265,Nancy Gonzalez,30,Denver,Asthma,"Diagnosed with Asthma in 2016, under ongoing treatment.",D015,Penicillin
+P0266,Melanie Valdez,45,Houston,Diabetes,"Diagnosed with Diabetes in 2017, under ongoing treatment.",D079;D008,Latex
+P0267,Maria Morrison,79,Los Angeles,Arthritis,"Diagnosed with Arthritis in 2014, under ongoing treatment.",D005;D047;D092,None
+P0268,Dustin Cross,47,Houston,Asthma,"Diagnosed with Asthma in 2020, under ongoing treatment.",D068;D005,Penicillin
+P0269,Kristin Mercer,22,Miami,Allergy,"Diagnosed with Allergy in 2012, under ongoing treatment.",D086,Pollen
+P0270,Amanda Mcknight,34,Seattle,Diabetes,"Diagnosed with Diabetes in 2012, under ongoing treatment.",D089;D074;D060,Pollen
+P0271,Alexandra Forbes,89,Seattle,Asthma,"Diagnosed with Asthma in 2021, under ongoing treatment.",D089;D011,Latex
+P0272,Spencer Hooper,45,Los Angeles,Migraine,"Diagnosed with Migraine in 2010, under ongoing treatment.",D043,Pollen
+P0273,Dillon Deleon,66,Seattle,Hypertension,"Diagnosed with Hypertension in 2017, under ongoing treatment.",D099;D036,Dust
+P0274,Jessica Gray,73,Chicago,Heart Disease,"Diagnosed with Heart Disease in 2012, under ongoing treatment.",D005,Latex
+P0275,Travis Watson,21,Miami,Arthritis,"Diagnosed with Arthritis in 2023, under ongoing treatment.",D075;D010;D096,None
+P0276,Joanne Patterson,65,Denver,Allergy,"Diagnosed with Allergy in 2011, under ongoing treatment.",D017,Penicillin
+P0277,Amber Wright,83,Chicago,Hypertension,"Diagnosed with Hypertension in 2012, under ongoing treatment.",D057,Dust
+P0278,David Thomas,63,Chicago,Hypertension,"Diagnosed with Hypertension in 2023, under ongoing treatment.",D013;D079;D053,None
+P0279,Matthew Mckay,22,Los Angeles,Arthritis,"Diagnosed with Arthritis in 2017, under ongoing treatment.",D038,Penicillin
+P0280,Natalie Robinson,63,New York,Diabetes,"Diagnosed with Diabetes in 2023, under ongoing treatment.",D019,Peanuts
+P0281,Cassidy Morales,56,Los Angeles,Asthma,"Diagnosed with Asthma in 2022, under ongoing treatment.",D015;D053,Pollen
+P0282,Carolyn Anderson,20,Seattle,Migraine,"Diagnosed with Migraine in 2018, under ongoing treatment.",D043;D018;D085,Penicillin
+P0283,Heather Webb,52,Seattle,Migraine,"Diagnosed with Migraine in 2019, under ongoing treatment.",D012;D021;D083,Penicillin
+P0284,Mr. Garrett Huang Jr.,31,Chicago,Hypertension,"Diagnosed with Hypertension in 2019, under ongoing treatment.",D080;D047,None
+P0285,Richard Burnett,49,Chicago,Allergy,"Diagnosed with Allergy in 2020, under ongoing treatment.",D025,Dust
+P0286,Stacey Anderson,76,New York,Arthritis,"Diagnosed with Arthritis in 2019, under ongoing treatment.",D030;D053,Dust
+P0287,Philip Johns,35,Seattle,Migraine,"Diagnosed with Migraine in 2011, under ongoing treatment.",D090;D004;D044,Latex
+P0288,Gerald Potter,24,Miami,Migraine,"Diagnosed with Migraine in 2012, under ongoing treatment.",D023,Latex
+P0289,John Decker,30,Seattle,Asthma,"Diagnosed with Asthma in 2018, under ongoing treatment.",D018,Penicillin
+P0290,James Rojas,51,Seattle,Asthma,"Diagnosed with Asthma in 2017, under ongoing treatment.",D098;D007,Latex
+P0291,Cody Wilkinson,22,Los Angeles,Migraine,"Diagnosed with Migraine in 2014, under ongoing treatment.",D057;D078;D091,Penicillin
+P0292,Melvin Brown,78,New York,Heart Disease,"Diagnosed with Heart Disease in 2019, under ongoing treatment.",D032;D029;D068,Pollen
+P0293,Nicholas George,64,Miami,Arthritis,"Diagnosed with Arthritis in 2014, under ongoing treatment.",D033,Latex
+P0294,Jennifer Clarke,39,New York,Migraine,"Diagnosed with Migraine in 2011, under ongoing treatment.",D048;D015,Peanuts
+P0295,John Roach,83,New York,Migraine,"Diagnosed with Migraine in 2020, under ongoing treatment.",D083;D071,None
+P0296,Jillian Bass DVM,71,Los Angeles,Arthritis,"Diagnosed with Arthritis in 2015, under ongoing treatment.",D073;D068,Peanuts
+P0297,Stacy Rodriguez,82,Los Angeles,Diabetes,"Diagnosed with Diabetes in 2014, under ongoing treatment.",D041;D007,Dust
+P0298,Gloria Hester,74,Los Angeles,Allergy,"Diagnosed with Allergy in 2020, under ongoing treatment.",D057;D020;D088,Peanuts
+P0299,William Lee,67,Miami,Asthma,"Diagnosed with Asthma in 2012, under ongoing treatment.",D093,None
+P0300,Terry Harmon,61,Denver,Allergy,"Diagnosed with Allergy in 2010, under ongoing treatment.",D005,Peanuts
+P0301,Rachel Castro,49,Seattle,Asthma,"Diagnosed with Asthma in 2014, under ongoing treatment.",D043;D086,Latex
+P0302,Marie Adkins,70,Seattle,Heart Disease,"Diagnosed with Heart Disease in 2022, under ongoing treatment.",D098;D045;D011,Latex
+P0303,Shawn Lindsey,25,New York,Arthritis,"Diagnosed with Arthritis in 2013, under ongoing treatment.",D017;D011;D047,Pollen
+P0304,Nancy Parker,35,Denver,Diabetes,"Diagnosed with Diabetes in 2011, under ongoing treatment.",D065;D096,Penicillin
+P0305,Christopher Marquez,53,Seattle,Hypertension,"Diagnosed with Hypertension in 2016, under ongoing treatment.",D090,Pollen
+P0306,Michelle Willis,23,Los Angeles,Heart Disease,"Diagnosed with Heart Disease in 2019, under ongoing treatment.",D015;D010,Latex
+P0307,Nicole Garcia,67,Los Angeles,Arthritis,"Diagnosed with Arthritis in 2016, under ongoing treatment.",D055;D021,Latex
+P0308,Dan Mills,80,Los Angeles,Diabetes,"Diagnosed with Diabetes in 2014, under ongoing treatment.",D065;D059,Latex
+P0309,Jonathan Le,66,New York,Migraine,"Diagnosed with Migraine in 2012, under ongoing treatment.",D040,None
+P0310,Christine Potter,29,Miami,Diabetes,"Diagnosed with Diabetes in 2020, under ongoing treatment.",D058;D074;D076,Peanuts
+P0311,Cynthia Andrews MD,55,Los Angeles,Heart Disease,"Diagnosed with Heart Disease in 2021, under ongoing treatment.",D061;D005;D048,Pollen
+P0312,David Stanley,79,Miami,Arthritis,"Diagnosed with Arthritis in 2020, under ongoing treatment.",D056,Latex
+P0313,Jay Lopez,89,Miami,Heart Disease,"Diagnosed with Heart Disease in 2022, under ongoing treatment.",D029,Penicillin
+P0314,Melvin Buckley,47,Houston,Hypertension,"Diagnosed with Hypertension in 2012, under ongoing treatment.",D027;D070,Latex
+P0315,Gabrielle Sellers,44,Houston,Asthma,"Diagnosed with Asthma in 2011, under ongoing treatment.",D051,None
+P0316,Janet Crawford,23,Miami,Heart Disease,"Diagnosed with Heart Disease in 2016, under ongoing treatment.",D024;D027,Latex
+P0317,Morgan Anderson,69,Chicago,Asthma,"Diagnosed with Asthma in 2021, under ongoing treatment.",D059;D007;D052,Dust
+P0318,Mark Snyder,28,New York,Arthritis,"Diagnosed with Arthritis in 2021, under ongoing treatment.",D098;D043,Penicillin
+P0319,Stacey Thomas,74,Houston,Arthritis,"Diagnosed with Arthritis in 2016, under ongoing treatment.",D082;D016,Peanuts
+P0320,Joshua Cunningham,21,Los Angeles,Migraine,"Diagnosed with Migraine in 2019, under ongoing treatment.",D054;D033,None
+P0321,Sarah Potter,72,Los Angeles,Allergy,"Diagnosed with Allergy in 2017, under ongoing treatment.",D082;D093;D063,Peanuts
+P0322,Dale Hill,53,Seattle,Migraine,"Diagnosed with Migraine in 2018, under ongoing treatment.",D100;D097;D004,Latex
+P0323,Natasha Hoffman,80,Seattle,Allergy,"Diagnosed with Allergy in 2015, under ongoing treatment.",D013;D065,Dust
+P0324,Johnny Frank,61,Chicago,Arthritis,"Diagnosed with Arthritis in 2019, under ongoing treatment.",D029;D005,Peanuts
+P0325,Jennifer Lambert,81,Seattle,Arthritis,"Diagnosed with Arthritis in 2021, under ongoing treatment.",D058;D020;D097,Latex
+P0326,John Murphy,65,New York,Arthritis,"Diagnosed with Arthritis in 2012, under ongoing treatment.",D003;D080;D065,Peanuts
+P0327,Seth Stevens,63,Los Angeles,Asthma,"Diagnosed with Asthma in 2020, under ongoing treatment.",D014;D020,Peanuts
+P0328,Christopher Baker MD,74,Denver,Migraine,"Diagnosed with Migraine in 2020, under ongoing treatment.",D063;D027,Pollen
+P0329,Jose Ortiz MD,22,Seattle,Diabetes,"Diagnosed with Diabetes in 2023, under ongoing treatment.",D060;D028;D029,Penicillin
+P0330,Bryan Mcgee,29,Houston,Asthma,"Diagnosed with Asthma in 2023, under ongoing treatment.",D027;D014,Pollen
+P0331,Annette Walter,79,Houston,Asthma,"Diagnosed with Asthma in 2011, under ongoing treatment.",D056;D084,Peanuts
+P0332,Priscilla Bowman,63,Seattle,Asthma,"Diagnosed with Asthma in 2019, under ongoing treatment.",D015;D094;D051,Penicillin
+P0333,Jessica Jones,70,Houston,Asthma,"Diagnosed with Asthma in 2017, under ongoing treatment.",D068,Penicillin
+P0334,Dr. Tanya Hernandez MD,36,New York,Hypertension,"Diagnosed with Hypertension in 2018, under ongoing treatment.",D047,Latex
+P0335,Monique Sanchez,29,Denver,Hypertension,"Diagnosed with Hypertension in 2015, under ongoing treatment.",D075,Penicillin
+P0336,Robert Ramirez,30,Los Angeles,Allergy,"Diagnosed with Allergy in 2023, under ongoing treatment.",D055;D007;D031,Latex
+P0337,Heidi Hughes,83,Seattle,Heart Disease,"Diagnosed with Heart Disease in 2018, under ongoing treatment.",D047;D099;D016,Latex
+P0338,Samantha Clark,44,Los Angeles,Arthritis,"Diagnosed with Arthritis in 2019, under ongoing treatment.",D019;D041;D091,Dust
+P0339,Denise Perry,75,Los Angeles,Allergy,"Diagnosed with Allergy in 2012, under ongoing treatment.",D085,Latex
+P0340,Tina Ferguson,41,Denver,Migraine,"Diagnosed with Migraine in 2021, under ongoing treatment.",D036;D015;D009,Dust
+P0341,Jennifer Ayers,51,Houston,Migraine,"Diagnosed with Migraine in 2021, under ongoing treatment.",D087,Latex
+P0342,Adam Johnson,19,Denver,Allergy,"Diagnosed with Allergy in 2012, under ongoing treatment.",D009;D070,Pollen
+P0343,Kyle Hobbs,59,Seattle,Arthritis,"Diagnosed with Arthritis in 2016, under ongoing treatment.",D082;D063,Dust
+P0344,Heather Brown,41,Denver,Allergy,"Diagnosed with Allergy in 2014, under ongoing treatment.",D008;D019;D074,Penicillin
+P0345,Tracy Schroeder,67,Houston,Allergy,"Diagnosed with Allergy in 2018, under ongoing treatment.",D080;D098;D020,Pollen
+P0346,Erin Martinez,42,Houston,Hypertension,"Diagnosed with Hypertension in 2013, under ongoing treatment.",D034;D007;D038,Peanuts
+P0347,Margaret Riggs,23,Los Angeles,Arthritis,"Diagnosed with Arthritis in 2016, under ongoing treatment.",D037;D088;D033,None
+P0348,Megan Pena,56,Denver,Allergy,"Diagnosed with Allergy in 2011, under ongoing treatment.",D019;D097,Pollen
+P0349,Debra Pace,28,Los Angeles,Asthma,"Diagnosed with Asthma in 2017, under ongoing treatment.",D076;D052,Pollen
+P0350,Stacey Crane,29,New York,Heart Disease,"Diagnosed with Heart Disease in 2010, under ongoing treatment.",D097;D059,Peanuts
+P0351,Alexander Davis,69,Chicago,Arthritis,"Diagnosed with Arthritis in 2010, under ongoing treatment.",D055;D037,Penicillin
+P0352,Lynn Hart,46,Houston,Diabetes,"Diagnosed with Diabetes in 2021, under ongoing treatment.",D008;D058,Dust
+P0353,Catherine Grant,48,Houston,Arthritis,"Diagnosed with Arthritis in 2020, under ongoing treatment.",D061;D042,Pollen
+P0354,Mathew Miller,46,Seattle,Hypertension,"Diagnosed with Hypertension in 2016, under ongoing treatment.",D027;D012;D059,Latex
+P0355,Jessica Perkins,55,Seattle,Asthma,"Diagnosed with Asthma in 2023, under ongoing treatment.",D006;D061;D097,Dust
+P0356,Jeffrey Grant,41,Miami,Arthritis,"Diagnosed with Arthritis in 2014, under ongoing treatment.",D041;D046,None
+P0357,Kendra Hunter,72,New York,Arthritis,"Diagnosed with Arthritis in 2017, under ongoing treatment.",D028;D055,Penicillin
+P0358,Jason Fuller,25,Houston,Arthritis,"Diagnosed with Arthritis in 2013, under ongoing treatment.",D031;D087;D088,Dust
+P0359,Barbara Hancock,72,New York,Allergy,"Diagnosed with Allergy in 2018, under ongoing treatment.",D058;D091;D077,Dust
+P0360,Teresa Hunt,41,Houston,Heart Disease,"Diagnosed with Heart Disease in 2014, under ongoing treatment.",D011;D071;D082,Dust
+P0361,Brandon Joseph,52,Chicago,Migraine,"Diagnosed with Migraine in 2016, under ongoing treatment.",D041;D031;D048,Penicillin
+P0362,Kelly Smith,20,Los Angeles,Arthritis,"Diagnosed with Arthritis in 2013, under ongoing treatment.",D060;D076,Penicillin
+P0363,Isabella Spencer,48,Houston,Asthma,"Diagnosed with Asthma in 2022, under ongoing treatment.",D065,Pollen
+P0364,Timothy Clark,30,Miami,Arthritis,"Diagnosed with Arthritis in 2014, under ongoing treatment.",D092;D014,Dust
+P0365,Jason Martin,86,Seattle,Diabetes,"Diagnosed with Diabetes in 2012, under ongoing treatment.",D096,Dust
+P0366,Laura Williams,20,Miami,Heart Disease,"Diagnosed with Heart Disease in 2014, under ongoing treatment.",D016,Dust
+P0367,Henry Miller,24,Seattle,Hypertension,"Diagnosed with Hypertension in 2016, under ongoing treatment.",D077;D004,Latex
+P0368,Mr. Troy Whitaker,26,Denver,Arthritis,"Diagnosed with Arthritis in 2015, under ongoing treatment.",D074;D031;D081,Dust
+P0369,Christian Butler,23,Los Angeles,Arthritis,"Diagnosed with Arthritis in 2017, under ongoing treatment.",D082;D064,Dust
+P0370,Robert Lopez,42,Chicago,Diabetes,"Diagnosed with Diabetes in 2020, under ongoing treatment.",D004;D042;D039,None
+P0371,Daniel Collins,86,Seattle,Diabetes,"Diagnosed with Diabetes in 2020, under ongoing treatment.",D033,None
+P0372,Michael Huff,76,Seattle,Hypertension,"Diagnosed with Hypertension in 2014, under ongoing treatment.",D087,None
+P0373,Logan Williams DDS,81,New York,Heart Disease,"Diagnosed with Heart Disease in 2012, under ongoing treatment.",D025,Peanuts
+P0374,Justin Carroll,59,Seattle,Heart Disease,"Diagnosed with Heart Disease in 2018, under ongoing treatment.",D097,None
+P0375,Rebecca Martinez,42,Miami,Asthma,"Diagnosed with Asthma in 2021, under ongoing treatment.",D020;D051;D075,Pollen
+P0376,Jamie Davis,44,Denver,Diabetes,"Diagnosed with Diabetes in 2021, under ongoing treatment.",D019;D038,Peanuts
+P0377,Alexis Burch,27,Houston,Hypertension,"Diagnosed with Hypertension in 2020, under ongoing treatment.",D043;D068,Penicillin
+P0378,Mark Thomas,85,New York,Diabetes,"Diagnosed with Diabetes in 2020, under ongoing treatment.",D010;D053,Peanuts
+P0379,Jacqueline Harmon,23,New York,Diabetes,"Diagnosed with Diabetes in 2018, under ongoing treatment.",D056;D018;D051,Latex
+P0380,Anthony Brock,87,Denver,Arthritis,"Diagnosed with Arthritis in 2022, under ongoing treatment.",D096;D060,Penicillin
+P0381,Brittney Johnson,56,Miami,Hypertension,"Diagnosed with Hypertension in 2017, under ongoing treatment.",D027,Dust
+P0382,Logan Berg Jr.,54,Denver,Heart Disease,"Diagnosed with Heart Disease in 2021, under ongoing treatment.",D023;D058,Penicillin
+P0383,Norma Santiago,49,Houston,Hypertension,"Diagnosed with Hypertension in 2018, under ongoing treatment.",D076;D074;D010,Latex
+P0384,Shannon Smith,34,New York,Migraine,"Diagnosed with Migraine in 2010, under ongoing treatment.",D059;D035,Dust
+P0385,Nicholas Dickerson,33,Seattle,Diabetes,"Diagnosed with Diabetes in 2016, under ongoing treatment.",D095;D077;D024,Pollen
+P0386,Carrie Wood,70,Los Angeles,Hypertension,"Diagnosed with Hypertension in 2019, under ongoing treatment.",D093;D030;D098,Peanuts
+P0387,Brandon Wilson,48,Denver,Diabetes,"Diagnosed with Diabetes in 2017, under ongoing treatment.",D059;D064;D067,Peanuts
+P0388,Megan Butler,67,Seattle,Hypertension,"Diagnosed with Hypertension in 2019, under ongoing treatment.",D025,Latex
+P0389,Emma Hunter,72,Denver,Allergy,"Diagnosed with Allergy in 2022, under ongoing treatment.",D043;D018;D046,Latex
+P0390,Matthew Jones,84,Seattle,Diabetes,"Diagnosed with Diabetes in 2015, under ongoing treatment.",D021;D088,Penicillin
+P0391,Thomas Sellers,22,Miami,Arthritis,"Diagnosed with Arthritis in 2020, under ongoing treatment.",D025;D089,None
+P0392,Sandra Perkins,80,Seattle,Hypertension,"Diagnosed with Hypertension in 2013, under ongoing treatment.",D011;D031;D038,Pollen
+P0393,Troy Fischer,76,Seattle,Diabetes,"Diagnosed with Diabetes in 2016, under ongoing treatment.",D005;D067,None
+P0394,Jacqueline Knapp,79,Los Angeles,Diabetes,"Diagnosed with Diabetes in 2012, under ongoing treatment.",D045;D062,Pollen
+P0395,Daniel Wiggins,82,New York,Heart Disease,"Diagnosed with Heart Disease in 2018, under ongoing treatment.",D021,Latex
+P0396,Jennifer Barr,25,Los Angeles,Migraine,"Diagnosed with Migraine in 2022, under ongoing treatment.",D026,Pollen
+P0397,Jeffrey Thomas,65,Houston,Asthma,"Diagnosed with Asthma in 2013, under ongoing treatment.",D041,Penicillin
+P0398,Courtney Peterson,41,New York,Arthritis,"Diagnosed with Arthritis in 2017, under ongoing treatment.",D053;D014,Pollen
+P0399,Sabrina Strickland,52,Miami,Arthritis,"Diagnosed with Arthritis in 2023, under ongoing treatment.",D078,Peanuts
+P0400,John West,86,Denver,Allergy,"Diagnosed with Allergy in 2018, under ongoing treatment.",D095,Pollen
+P0401,Daniel Davis,41,Miami,Allergy,"Diagnosed with Allergy in 2013, under ongoing treatment.",D091;D004,Dust
+P0402,Autumn Ball,59,Chicago,Asthma,"Diagnosed with Asthma in 2013, under ongoing treatment.",D082,Latex
+P0403,Christopher Lutz,73,New York,Arthritis,"Diagnosed with Arthritis in 2010, under ongoing treatment.",D072;D069;D090,Peanuts
+P0404,Vincent Mckay,31,Seattle,Hypertension,"Diagnosed with Hypertension in 2014, under ongoing treatment.",D059;D008,Pollen
+P0405,Joshua Webb,28,Denver,Arthritis,"Diagnosed with Arthritis in 2010, under ongoing treatment.",D004,Latex
+P0406,Alicia Rivera,85,Los Angeles,Diabetes,"Diagnosed with Diabetes in 2012, under ongoing treatment.",D037;D021;D015,Latex
+P0407,Benjamin Price,82,Houston,Arthritis,"Diagnosed with Arthritis in 2022, under ongoing treatment.",D056,Peanuts
+P0408,Tracy Stewart,26,Chicago,Allergy,"Diagnosed with Allergy in 2018, under ongoing treatment.",D003;D041,Penicillin
+P0409,Melissa Jenkins,74,Los Angeles,Asthma,"Diagnosed with Asthma in 2018, under ongoing treatment.",D056,Penicillin
+P0410,Rebecca Oneill,29,Denver,Migraine,"Diagnosed with Migraine in 2015, under ongoing treatment.",D047;D092,Latex
+P0411,Melody Terrell,80,Seattle,Asthma,"Diagnosed with Asthma in 2015, under ongoing treatment.",D055;D054,Latex
+P0412,Raymond Fuentes,78,Denver,Asthma,"Diagnosed with Asthma in 2019, under ongoing treatment.",D047;D036,None
+P0413,Tracy Ellison,46,Los Angeles,Heart Disease,"Diagnosed with Heart Disease in 2012, under ongoing treatment.",D089,Latex
+P0414,Carol Cain,57,Houston,Allergy,"Diagnosed with Allergy in 2012, under ongoing treatment.",D020,Peanuts
+P0415,Gail Murphy,34,Seattle,Allergy,"Diagnosed with Allergy in 2023, under ongoing treatment.",D079;D021,Pollen
+P0416,Miguel Perez,83,Denver,Asthma,"Diagnosed with Asthma in 2023, under ongoing treatment.",D067;D048;D061,Latex
+P0417,Katie Green,36,New York,Asthma,"Diagnosed with Asthma in 2015, under ongoing treatment.",D005,Peanuts
+P0418,Amy Aguilar MD,67,Miami,Diabetes,"Diagnosed with Diabetes in 2010, under ongoing treatment.",D085;D030,None
+P0419,John Perkins,83,Houston,Arthritis,"Diagnosed with Arthritis in 2019, under ongoing treatment.",D040,Latex
+P0420,Tiffany Marshall,88,Denver,Migraine,"Diagnosed with Migraine in 2010, under ongoing treatment.",D094;D033;D029,Latex
+P0421,Zachary Simon,44,Denver,Arthritis,"Diagnosed with Arthritis in 2011, under ongoing treatment.",D038;D041;D007,Peanuts
+P0422,Darryl Robinson,62,Chicago,Heart Disease,"Diagnosed with Heart Disease in 2022, under ongoing treatment.",D027,None
+P0423,Kristin Hernandez,35,Miami,Hypertension,"Diagnosed with Hypertension in 2013, under ongoing treatment.",D056;D029;D008,None
+P0424,Barry Coffey,84,Miami,Arthritis,"Diagnosed with Arthritis in 2020, under ongoing treatment.",D025;D019,None
+P0425,Kimberly Edwards,23,Los Angeles,Asthma,"Diagnosed with Asthma in 2014, under ongoing treatment.",D018;D077,None
+P0426,Thomas Simon,56,Denver,Migraine,"Diagnosed with Migraine in 2019, under ongoing treatment.",D084;D098;D009,Pollen
+P0427,Kristen Kramer MD,49,Chicago,Hypertension,"Diagnosed with Hypertension in 2013, under ongoing treatment.",D008;D098,Pollen
+P0428,Jeffrey Olson,67,Denver,Arthritis,"Diagnosed with Arthritis in 2020, under ongoing treatment.",D050,None
+P0429,Marc Morales,49,Los Angeles,Hypertension,"Diagnosed with Hypertension in 2015, under ongoing treatment.",D092;D058,Dust
+P0430,Kathleen Mcdonald,23,Los Angeles,Migraine,"Diagnosed with Migraine in 2012, under ongoing treatment.",D084;D061;D056,Dust
+P0431,Jeremy Allen,69,Houston,Allergy,"Diagnosed with Allergy in 2022, under ongoing treatment.",D006;D092;D064,Pollen
+P0432,Betty Bowers,25,Chicago,Heart Disease,"Diagnosed with Heart Disease in 2021, under ongoing treatment.",D041;D013;D078,Latex
+P0433,Rebecca Villa,89,Denver,Allergy,"Diagnosed with Allergy in 2020, under ongoing treatment.",D045;D064,Latex
+P0434,Anthony Johnson,18,Miami,Asthma,"Diagnosed with Asthma in 2016, under ongoing treatment.",D001,Latex
+P0435,Thomas Martinez,73,Chicago,Allergy,"Diagnosed with Allergy in 2018, under ongoing treatment.",D049,Penicillin
+P0436,Dawn Benjamin,57,Chicago,Allergy,"Diagnosed with Allergy in 2022, under ongoing treatment.",D001,Latex
+P0437,Amanda Flores,48,Chicago,Hypertension,"Diagnosed with Hypertension in 2019, under ongoing treatment.",D084,None
+P0438,Jacob Rodriguez,29,Houston,Arthritis,"Diagnosed with Arthritis in 2014, under ongoing treatment.",D018,Penicillin
+P0439,Theresa Kelley,82,Chicago,Hypertension,"Diagnosed with Hypertension in 2019, under ongoing treatment.",D066;D026,Latex
+P0440,Adam Taylor,32,New York,Diabetes,"Diagnosed with Diabetes in 2022, under ongoing treatment.",D022;D076,Dust
+P0441,Julia Mcintyre,45,Los Angeles,Hypertension,"Diagnosed with Hypertension in 2018, under ongoing treatment.",D053;D001,Pollen
+P0442,Lori Cummings,41,Miami,Diabetes,"Diagnosed with Diabetes in 2022, under ongoing treatment.",D073;D044,Dust
+P0443,Erin Vargas,22,New York,Asthma,"Diagnosed with Asthma in 2019, under ongoing treatment.",D036;D084,Latex
+P0444,Tara Russell,61,Denver,Heart Disease,"Diagnosed with Heart Disease in 2022, under ongoing treatment.",D008;D069,Dust
+P0445,Lauren Watkins,21,Miami,Allergy,"Diagnosed with Allergy in 2015, under ongoing treatment.",D094;D060;D021,Penicillin
+P0446,Leslie Banks,25,Los Angeles,Allergy,"Diagnosed with Allergy in 2018, under ongoing treatment.",D048;D026;D039,Peanuts
+P0447,Alexander Stewart,33,Denver,Hypertension,"Diagnosed with Hypertension in 2012, under ongoing treatment.",D058,Peanuts
+P0448,Edward Scott,33,New York,Diabetes,"Diagnosed with Diabetes in 2011, under ongoing treatment.",D024;D013;D063,Dust
+P0449,Brandon Mclaughlin,77,Chicago,Asthma,"Diagnosed with Asthma in 2012, under ongoing treatment.",D017,Peanuts
+P0450,Michael Bradford,64,Chicago,Migraine,"Diagnosed with Migraine in 2017, under ongoing treatment.",D009;D055;D021,Pollen
+P0451,Tasha Fox,81,Chicago,Heart Disease,"Diagnosed with Heart Disease in 2011, under ongoing treatment.",D065;D050;D064,Peanuts
+P0452,David Johnson,19,New York,Hypertension,"Diagnosed with Hypertension in 2012, under ongoing treatment.",D020,Latex
+P0453,Anthony Jordan,31,New York,Allergy,"Diagnosed with Allergy in 2017, under ongoing treatment.",D083;D001;D036,Penicillin
+P0454,Megan Jones,81,Chicago,Arthritis,"Diagnosed with Arthritis in 2011, under ongoing treatment.",D023;D071,Latex
+P0455,Rebecca Olsen,33,Chicago,Arthritis,"Diagnosed with Arthritis in 2012, under ongoing treatment.",D042,Peanuts
+P0456,Jessica Sullivan,27,Los Angeles,Migraine,"Diagnosed with Migraine in 2020, under ongoing treatment.",D036;D085;D030,Dust
+P0457,Katherine Winters,37,Seattle,Migraine,"Diagnosed with Migraine in 2014, under ongoing treatment.",D072;D036,Latex
+P0458,Russell Anderson,80,Houston,Arthritis,"Diagnosed with Arthritis in 2013, under ongoing treatment.",D055,Peanuts
+P0459,Andrew Collins,51,New York,Diabetes,"Diagnosed with Diabetes in 2014, under ongoing treatment.",D038;D040,Dust
+P0460,Crystal Huff,66,Houston,Diabetes,"Diagnosed with Diabetes in 2014, under ongoing treatment.",D009,Latex
+P0461,Luis Dunn,23,Denver,Diabetes,"Diagnosed with Diabetes in 2012, under ongoing treatment.",D029;D081,Penicillin
+P0462,Tiffany Lopez,53,Miami,Heart Disease,"Diagnosed with Heart Disease in 2018, under ongoing treatment.",D035;D066;D045,Pollen
+P0463,Joyce Williams,47,Los Angeles,Allergy,"Diagnosed with Allergy in 2019, under ongoing treatment.",D047;D006,Pollen
+P0464,Lauren Price,32,Chicago,Migraine,"Diagnosed with Migraine in 2022, under ongoing treatment.",D097;D008;D028,Pollen
+P0465,Jeffrey Castro,81,Chicago,Arthritis,"Diagnosed with Arthritis in 2016, under ongoing treatment.",D065,Peanuts
+P0466,Amber Bell,80,New York,Asthma,"Diagnosed with Asthma in 2022, under ongoing treatment.",D081;D032,Penicillin
+P0467,Kelly Atkins,89,New York,Asthma,"Diagnosed with Asthma in 2013, under ongoing treatment.",D087;D002,Peanuts
+P0468,Amber Reese,80,Miami,Allergy,"Diagnosed with Allergy in 2013, under ongoing treatment.",D071,Peanuts
+P0469,Gabriel Buckley,66,Chicago,Heart Disease,"Diagnosed with Heart Disease in 2015, under ongoing treatment.",D019,Latex
+P0470,Abigail Ramirez,23,Houston,Diabetes,"Diagnosed with Diabetes in 2019, under ongoing treatment.",D084;D062,Dust
+P0471,Rachel Lee,47,Denver,Heart Disease,"Diagnosed with Heart Disease in 2017, under ongoing treatment.",D021,Latex
+P0472,John Williams,61,Seattle,Diabetes,"Diagnosed with Diabetes in 2013, under ongoing treatment.",D005,Peanuts
+P0473,John Anderson,71,Seattle,Migraine,"Diagnosed with Migraine in 2013, under ongoing treatment.",D050;D090;D008,Peanuts
+P0474,Hannah Phillips,50,New York,Hypertension,"Diagnosed with Hypertension in 2016, under ongoing treatment.",D072,Penicillin
+P0475,Mary Hill,44,Denver,Arthritis,"Diagnosed with Arthritis in 2015, under ongoing treatment.",D043;D044;D002,Dust
+P0476,Daniel Alvarado,47,Chicago,Hypertension,"Diagnosed with Hypertension in 2014, under ongoing treatment.",D035,Penicillin
+P0477,Teresa Miller,73,Miami,Hypertension,"Diagnosed with Hypertension in 2021, under ongoing treatment.",D083;D032;D043,Latex
+P0478,Danielle Ruiz,35,Miami,Migraine,"Diagnosed with Migraine in 2023, under ongoing treatment.",D025;D071;D090,Dust
+P0479,Matthew Ford,66,New York,Hypertension,"Diagnosed with Hypertension in 2018, under ongoing treatment.",D033,Latex
+P0480,Mary Solis,42,Seattle,Allergy,"Diagnosed with Allergy in 2015, under ongoing treatment.",D081;D085,Dust
+P0481,Justin Curtis,57,Miami,Asthma,"Diagnosed with Asthma in 2022, under ongoing treatment.",D035;D049;D041,None
+P0482,Teresa Ellis,69,Miami,Migraine,"Diagnosed with Migraine in 2023, under ongoing treatment.",D004,Latex
+P0483,Stefanie Dickerson,66,New York,Arthritis,"Diagnosed with Arthritis in 2014, under ongoing treatment.",D053,Dust
+P0484,Todd Montgomery,66,Miami,Arthritis,"Diagnosed with Arthritis in 2010, under ongoing treatment.",D087;D070,Pollen
+P0485,Tiffany Ramos,35,Chicago,Heart Disease,"Diagnosed with Heart Disease in 2016, under ongoing treatment.",D017;D048;D083,None
+P0486,James Foster,60,Los Angeles,Arthritis,"Diagnosed with Arthritis in 2016, under ongoing treatment.",D053,Pollen
+P0487,Sarah Roberts,78,Los Angeles,Diabetes,"Diagnosed with Diabetes in 2015, under ongoing treatment.",D061;D073;D016,Penicillin
+P0488,John Camacho,82,New York,Heart Disease,"Diagnosed with Heart Disease in 2017, under ongoing treatment.",D053;D077;D032,Latex
+P0489,Lori Smith,51,Denver,Arthritis,"Diagnosed with Arthritis in 2014, under ongoing treatment.",D085;D095;D033,Penicillin
+P0490,Darren Gutierrez,31,New York,Heart Disease,"Diagnosed with Heart Disease in 2016, under ongoing treatment.",D057,Pollen
+P0491,Donna Wright,71,Seattle,Allergy,"Diagnosed with Allergy in 2023, under ongoing treatment.",D046;D100;D027,Latex
+P0492,Mandy Jenkins,69,Seattle,Allergy,"Diagnosed with Allergy in 2010, under ongoing treatment.",D097;D070,None
+P0493,Edward Martinez,43,Seattle,Arthritis,"Diagnosed with Arthritis in 2014, under ongoing treatment.",D011,Pollen
+P0494,Danielle Lopez,76,Seattle,Migraine,"Diagnosed with Migraine in 2019, under ongoing treatment.",D036;D049;D009,Penicillin
+P0495,Andrew Knight,61,Chicago,Heart Disease,"Diagnosed with Heart Disease in 2023, under ongoing treatment.",D057;D034,Latex
+P0496,David Robertson,21,Chicago,Arthritis,"Diagnosed with Arthritis in 2019, under ongoing treatment.",D058;D054,Dust
+P0497,Kevin Church,75,Los Angeles,Heart Disease,"Diagnosed with Heart Disease in 2011, under ongoing treatment.",D096;D058;D029,Pollen
+P0498,Robert White,73,Los Angeles,Heart Disease,"Diagnosed with Heart Disease in 2021, under ongoing treatment.",D099;D076,Latex
+P0499,Sandra Wagner,63,Miami,Hypertension,"Diagnosed with Hypertension in 2020, under ongoing treatment.",D032;D031;D076,Peanuts
+P0500,David Livingston,90,New York,Diabetes,"Diagnosed with Diabetes in 2013, under ongoing treatment.",D038,Dust
+P0501,Lee Freeman,62,New York,Arthritis,"Diagnosed with Arthritis in 2017, under ongoing treatment.",D001,Peanuts
+P0502,Derrick Joyce,42,New York,Diabetes,"Diagnosed with Diabetes in 2023, under ongoing treatment.",D054;D042;D091,Peanuts
+P0503,Kathleen Morris,36,Los Angeles,Diabetes,"Diagnosed with Diabetes in 2013, under ongoing treatment.",D026,Dust
+P0504,James King,63,Denver,Migraine,"Diagnosed with Migraine in 2019, under ongoing treatment.",D052;D098;D039,Latex
+P0505,Michael Roman,47,Miami,Allergy,"Diagnosed with Allergy in 2013, under ongoing treatment.",D018;D025,Penicillin
+P0506,Amber Conrad,41,Miami,Arthritis,"Diagnosed with Arthritis in 2015, under ongoing treatment.",D082,Latex
+P0507,Christina Bullock,41,Denver,Arthritis,"Diagnosed with Arthritis in 2021, under ongoing treatment.",D079;D098,Penicillin
+P0508,Tim Ingram,83,New York,Asthma,"Diagnosed with Asthma in 2019, under ongoing treatment.",D003,Pollen
+P0509,Alexander Thompson,85,Miami,Hypertension,"Diagnosed with Hypertension in 2020, under ongoing treatment.",D048;D085,Latex
+P0510,Dean Dean,64,Houston,Asthma,"Diagnosed with Asthma in 2016, under ongoing treatment.",D086;D016,Penicillin
+P0511,Anthony Bryant,90,Denver,Hypertension,"Diagnosed with Hypertension in 2013, under ongoing treatment.",D093,Latex
+P0512,Debra Cook,22,Chicago,Asthma,"Diagnosed with Asthma in 2023, under ongoing treatment.",D065;D014,Pollen
+P0513,Jody York,79,Los Angeles,Diabetes,"Diagnosed with Diabetes in 2023, under ongoing treatment.",D009;D099;D039,Dust
+P0514,Tamara Sherman,27,Miami,Allergy,"Diagnosed with Allergy in 2010, under ongoing treatment.",D026,Dust
+P0515,David White,46,Chicago,Allergy,"Diagnosed with Allergy in 2010, under ongoing treatment.",D016,Peanuts
+P0516,Shelly White,22,New York,Arthritis,"Diagnosed with Arthritis in 2013, under ongoing treatment.",D069;D014,Dust
+P0517,Roger Jacobs,36,Seattle,Allergy,"Diagnosed with Allergy in 2017, under ongoing treatment.",D030;D008,Pollen
+P0518,Amanda Willis,71,Denver,Allergy,"Diagnosed with Allergy in 2011, under ongoing treatment.",D081;D028,Dust
+P0519,William Massey,44,Houston,Migraine,"Diagnosed with Migraine in 2014, under ongoing treatment.",D035;D098,None
+P0520,Ricardo Church,22,Houston,Hypertension,"Diagnosed with Hypertension in 2023, under ongoing treatment.",D063;D010,Pollen
+P0521,David Baker,28,Denver,Migraine,"Diagnosed with Migraine in 2020, under ongoing treatment.",D067;D076,Penicillin
+P0522,Jeffrey Chen,88,Seattle,Arthritis,"Diagnosed with Arthritis in 2015, under ongoing treatment.",D053;D072;D099,Pollen
+P0523,Randy Wilkinson,61,Chicago,Diabetes,"Diagnosed with Diabetes in 2011, under ongoing treatment.",D086;D077,None
+P0524,Joseph Pittman,90,Los Angeles,Asthma,"Diagnosed with Asthma in 2023, under ongoing treatment.",D069;D074;D042,Peanuts
+P0525,Gregory Evans,60,Denver,Arthritis,"Diagnosed with Arthritis in 2013, under ongoing treatment.",D055;D062,Latex
+P0526,Jacqueline Chapman,48,Houston,Hypertension,"Diagnosed with Hypertension in 2011, under ongoing treatment.",D050,Latex
+P0527,Brandi Rodriguez,57,Los Angeles,Hypertension,"Diagnosed with Hypertension in 2016, under ongoing treatment.",D081;D042,Pollen
+P0528,Philip Thomas,45,Chicago,Diabetes,"Diagnosed with Diabetes in 2011, under ongoing treatment.",D085;D049,Latex
+P0529,Kristopher Brown,55,Chicago,Diabetes,"Diagnosed with Diabetes in 2011, under ongoing treatment.",D089;D028,Peanuts
+P0530,Shelby Stokes,21,Chicago,Arthritis,"Diagnosed with Arthritis in 2017, under ongoing treatment.",D011,Pollen
+P0531,David Moore,81,Chicago,Diabetes,"Diagnosed with Diabetes in 2012, under ongoing treatment.",D037,None
+P0532,Karen Davis,43,Denver,Allergy,"Diagnosed with Allergy in 2011, under ongoing treatment.",D041,None
+P0533,Charles Brown,78,New York,Arthritis,"Diagnosed with Arthritis in 2014, under ongoing treatment.",D026;D063;D084,Latex
+P0534,Kelly Chang,32,Chicago,Migraine,"Diagnosed with Migraine in 2010, under ongoing treatment.",D008;D096;D070,Pollen
+P0535,Derek Warren,37,Denver,Migraine,"Diagnosed with Migraine in 2022, under ongoing treatment.",D007,Latex
+P0536,Lisa Adams,72,Denver,Heart Disease,"Diagnosed with Heart Disease in 2011, under ongoing treatment.",D059;D030;D003,Penicillin
+P0537,Wendy Murphy,55,Chicago,Migraine,"Diagnosed with Migraine in 2023, under ongoing treatment.",D083,Latex
+P0538,David Farmer,66,Denver,Heart Disease,"Diagnosed with Heart Disease in 2016, under ongoing treatment.",D092,Peanuts
+P0539,Cameron Williams,40,Chicago,Diabetes,"Diagnosed with Diabetes in 2017, under ongoing treatment.",D088;D016;D035,Dust
+P0540,Megan Zimmerman,63,Denver,Arthritis,"Diagnosed with Arthritis in 2017, under ongoing treatment.",D023;D091,Penicillin
+P0541,Austin Melendez,86,Los Angeles,Asthma,"Diagnosed with Asthma in 2019, under ongoing treatment.",D060;D021;D025,Dust
+P0542,Mary Jones,44,Seattle,Heart Disease,"Diagnosed with Heart Disease in 2011, under ongoing treatment.",D073;D071,Pollen
+P0543,Raymond Martinez,61,Seattle,Allergy,"Diagnosed with Allergy in 2011, under ongoing treatment.",D014;D094,Pollen
+P0544,Mark Myers,90,Chicago,Migraine,"Diagnosed with Migraine in 2023, under ongoing treatment.",D076,Pollen
+P0545,Gregory Wagner,85,Seattle,Hypertension,"Diagnosed with Hypertension in 2016, under ongoing treatment.",D075,Latex
+P0546,Gabriel Holder,51,Chicago,Migraine,"Diagnosed with Migraine in 2018, under ongoing treatment.",D038,Penicillin
+P0547,Abigail Rose MD,36,Seattle,Arthritis,"Diagnosed with Arthritis in 2022, under ongoing treatment.",D091;D059;D089,Pollen
+P0548,Edwin Moore,27,Houston,Arthritis,"Diagnosed with Arthritis in 2014, under ongoing treatment.",D064,Pollen
+P0549,Frank Huffman,73,Seattle,Heart Disease,"Diagnosed with Heart Disease in 2022, under ongoing treatment.",D015,None
+P0550,Ashley Long,31,Houston,Hypertension,"Diagnosed with Hypertension in 2011, under ongoing treatment.",D031,Penicillin
+P0551,Jorge Jones,70,Seattle,Diabetes,"Diagnosed with Diabetes in 2014, under ongoing treatment.",D086,None
+P0552,Tammy Martin,71,New York,Migraine,"Diagnosed with Migraine in 2010, under ongoing treatment.",D027,Dust
+P0553,Joshua James,81,Los Angeles,Asthma,"Diagnosed with Asthma in 2012, under ongoing treatment.",D025;D054,Latex
+P0554,Lucas Dominguez,82,Houston,Asthma,"Diagnosed with Asthma in 2019, under ongoing treatment.",D035,Peanuts
+P0555,William Nicholson,69,Miami,Migraine,"Diagnosed with Migraine in 2017, under ongoing treatment.",D007;D032;D058,Penicillin
+P0556,Steven Garcia,71,Miami,Hypertension,"Diagnosed with Hypertension in 2015, under ongoing treatment.",D048;D049,None
+P0557,Mark Cole,36,Denver,Diabetes,"Diagnosed with Diabetes in 2012, under ongoing treatment.",D053;D007,Dust
+P0558,Mrs. Tina Marshall MD,76,Miami,Migraine,"Diagnosed with Migraine in 2012, under ongoing treatment.",D023;D024;D084,Peanuts
+P0559,Virginia Simpson,34,Chicago,Allergy,"Diagnosed with Allergy in 2023, under ongoing treatment.",D035;D018,Peanuts
+P0560,Benjamin Patton,22,Seattle,Hypertension,"Diagnosed with Hypertension in 2015, under ongoing treatment.",D076;D075;D038,Penicillin
+P0561,Kevin Moore,59,Denver,Diabetes,"Diagnosed with Diabetes in 2017, under ongoing treatment.",D079,Dust
+P0562,Adam Jackson,31,Houston,Hypertension,"Diagnosed with Hypertension in 2023, under ongoing treatment.",D083,Latex
+P0563,Jose Gonzales,19,Seattle,Hypertension,"Diagnosed with Hypertension in 2016, under ongoing treatment.",D017;D100;D009,None
+P0564,David Wright,66,Houston,Allergy,"Diagnosed with Allergy in 2020, under ongoing treatment.",D046;D053,Peanuts
+P0565,Chelsea Moran,46,New York,Allergy,"Diagnosed with Allergy in 2017, under ongoing treatment.",D033,None
+P0566,Dawn Pierce,84,Miami,Arthritis,"Diagnosed with Arthritis in 2015, under ongoing treatment.",D021;D042;D087,Penicillin
+P0567,Terrance Hawkins,80,Miami,Hypertension,"Diagnosed with Hypertension in 2012, under ongoing treatment.",D076;D031,Latex
+P0568,Kyle Anderson,63,New York,Allergy,"Diagnosed with Allergy in 2020, under ongoing treatment.",D018,Latex
+P0569,Jeremy Friedman,70,New York,Asthma,"Diagnosed with Asthma in 2016, under ongoing treatment.",D099,Latex
+P0570,Jose Morales,31,Denver,Asthma,"Diagnosed with Asthma in 2019, under ongoing treatment.",D044;D034;D074,Pollen
+P0571,Nicholas Herman,32,Denver,Heart Disease,"Diagnosed with Heart Disease in 2011, under ongoing treatment.",D031,Peanuts
+P0572,William Gonzales,43,Houston,Heart Disease,"Diagnosed with Heart Disease in 2016, under ongoing treatment.",D023,Penicillin
+P0573,Benjamin Barker,87,Houston,Migraine,"Diagnosed with Migraine in 2012, under ongoing treatment.",D085,None
+P0574,Jose Roth,62,Denver,Asthma,"Diagnosed with Asthma in 2019, under ongoing treatment.",D016;D064;D063,Penicillin
+P0575,Yolanda Jones,39,New York,Heart Disease,"Diagnosed with Heart Disease in 2023, under ongoing treatment.",D025;D088,Dust
+P0576,Kathryn Gonzalez,77,Denver,Allergy,"Diagnosed with Allergy in 2016, under ongoing treatment.",D095;D027;D004,Penicillin
+P0577,Lisa Gregory,59,Denver,Diabetes,"Diagnosed with Diabetes in 2015, under ongoing treatment.",D004;D089,Peanuts
+P0578,Joan Fitzgerald,66,Seattle,Heart Disease,"Diagnosed with Heart Disease in 2015, under ongoing treatment.",D096;D088,Pollen
+P0579,Ronald Taylor,41,Seattle,Hypertension,"Diagnosed with Hypertension in 2015, under ongoing treatment.",D051;D097,Peanuts
+P0580,Lori Rios,33,Houston,Heart Disease,"Diagnosed with Heart Disease in 2023, under ongoing treatment.",D070;D055;D012,Pollen
+P0581,Patrick Long,57,Houston,Migraine,"Diagnosed with Migraine in 2012, under ongoing treatment.",D038;D010,Dust
+P0582,Scott Harrell,73,Los Angeles,Migraine,"Diagnosed with Migraine in 2018, under ongoing treatment.",D022;D054;D086,Penicillin
+P0583,Todd Church,21,Miami,Arthritis,"Diagnosed with Arthritis in 2019, under ongoing treatment.",D035;D040;D071,Peanuts
+P0584,Tracy Peterson,53,New York,Asthma,"Diagnosed with Asthma in 2011, under ongoing treatment.",D011;D057;D017,Pollen
+P0585,Chad Martinez,80,New York,Migraine,"Diagnosed with Migraine in 2011, under ongoing treatment.",D021;D090,Pollen
+P0586,David Alvarado,21,New York,Heart Disease,"Diagnosed with Heart Disease in 2017, under ongoing treatment.",D056;D026,None
+P0587,Eric Foster,44,Chicago,Asthma,"Diagnosed with Asthma in 2010, under ongoing treatment.",D057;D004,Penicillin
+P0588,Johnathan Gomez,34,Denver,Heart Disease,"Diagnosed with Heart Disease in 2013, under ongoing treatment.",D072;D030,Dust
+P0589,Michael Johnson,84,Seattle,Asthma,"Diagnosed with Asthma in 2023, under ongoing treatment.",D094,None
+P0590,Ronald Jefferson,76,Houston,Hypertension,"Diagnosed with Hypertension in 2019, under ongoing treatment.",D027,Pollen
+P0591,Megan Jenkins,24,Houston,Heart Disease,"Diagnosed with Heart Disease in 2021, under ongoing treatment.",D088,None
+P0592,Victoria Wang,68,Miami,Hypertension,"Diagnosed with Hypertension in 2020, under ongoing treatment.",D069,None
+P0593,Donna Rodriguez,76,New York,Hypertension,"Diagnosed with Hypertension in 2015, under ongoing treatment.",D052;D036,Dust
+P0594,William Poole,62,Los Angeles,Migraine,"Diagnosed with Migraine in 2018, under ongoing treatment.",D054;D086;D066,Peanuts
+P0595,Brian Watkins,22,Denver,Heart Disease,"Diagnosed with Heart Disease in 2020, under ongoing treatment.",D028;D014;D087,None
+P0596,Austin Johnston,66,Houston,Migraine,"Diagnosed with Migraine in 2022, under ongoing treatment.",D027;D072,Peanuts
+P0597,Mr. Lee Maxwell,73,Houston,Arthritis,"Diagnosed with Arthritis in 2013, under ongoing treatment.",D062;D055;D005,Latex
+P0598,Leslie Stokes,54,Denver,Hypertension,"Diagnosed with Hypertension in 2015, under ongoing treatment.",D003;D040;D059,Penicillin
+P0599,Brian Wise,24,New York,Allergy,"Diagnosed with Allergy in 2021, under ongoing treatment.",D015,Peanuts
+P0600,Megan Hansen,18,Chicago,Diabetes,"Diagnosed with Diabetes in 2010, under ongoing treatment.",D060;D033,Dust
+P0601,Anthony Robinson,21,Denver,Asthma,"Diagnosed with Asthma in 2019, under ongoing treatment.",D023,Pollen
+P0602,George Huber,34,New York,Allergy,"Diagnosed with Allergy in 2016, under ongoing treatment.",D083,None
+P0603,Meagan Buckley,57,Seattle,Migraine,"Diagnosed with Migraine in 2023, under ongoing treatment.",D005;D042,Peanuts
+P0604,Christine Potter,25,Miami,Hypertension,"Diagnosed with Hypertension in 2018, under ongoing treatment.",D084;D053,Latex
+P0605,Larry Ortiz,83,Houston,Asthma,"Diagnosed with Asthma in 2012, under ongoing treatment.",D045;D021,Penicillin
+P0606,Logan Fry,85,New York,Diabetes,"Diagnosed with Diabetes in 2022, under ongoing treatment.",D044;D057;D058,Peanuts
+P0607,Kimberly Jones,32,Los Angeles,Diabetes,"Diagnosed with Diabetes in 2019, under ongoing treatment.",D028;D097,None
+P0608,Eugene Sims,56,Los Angeles,Hypertension,"Diagnosed with Hypertension in 2020, under ongoing treatment.",D080;D078,Penicillin
+P0609,Brian Taylor,34,Houston,Hypertension,"Diagnosed with Hypertension in 2017, under ongoing treatment.",D100;D049,Latex
+P0610,Patrick Wood,55,Los Angeles,Asthma,"Diagnosed with Asthma in 2012, under ongoing treatment.",D098;D075;D088,Pollen
+P0611,Isaac Price,83,New York,Allergy,"Diagnosed with Allergy in 2019, under ongoing treatment.",D010;D059;D026,Peanuts
+P0612,Steven Charles,51,Denver,Hypertension,"Diagnosed with Hypertension in 2014, under ongoing treatment.",D045;D084,Dust
+P0613,Jennifer Frazier,28,Miami,Arthritis,"Diagnosed with Arthritis in 2021, under ongoing treatment.",D050;D036,Latex
+P0614,Laura Garcia,67,Houston,Asthma,"Diagnosed with Asthma in 2014, under ongoing treatment.",D096;D020;D011,Latex
+P0615,Daniel Alexander,64,Miami,Asthma,"Diagnosed with Asthma in 2014, under ongoing treatment.",D072;D067;D092,Latex
+P0616,Samantha Grant,26,Seattle,Diabetes,"Diagnosed with Diabetes in 2023, under ongoing treatment.",D034;D084,Pollen
+P0617,Ivan Williams,38,Los Angeles,Arthritis,"Diagnosed with Arthritis in 2013, under ongoing treatment.",D026;D063;D031,Peanuts
+P0618,Patricia Wong,73,Seattle,Asthma,"Diagnosed with Asthma in 2012, under ongoing treatment.",D002;D026;D064,None
+P0619,Sharon Murphy,43,Los Angeles,Diabetes,"Diagnosed with Diabetes in 2021, under ongoing treatment.",D051;D081,Dust
+P0620,Timothy Scott,79,Chicago,Hypertension,"Diagnosed with Hypertension in 2014, under ongoing treatment.",D040,Dust
+P0621,Michael Coleman,18,Los Angeles,Arthritis,"Diagnosed with Arthritis in 2014, under ongoing treatment.",D084;D018;D029,None
+P0622,Frederick Davis,86,Los Angeles,Allergy,"Diagnosed with Allergy in 2010, under ongoing treatment.",D083;D035;D067,Penicillin
+P0623,Savannah Johnson,39,Los Angeles,Allergy,"Diagnosed with Allergy in 2010, under ongoing treatment.",D100;D070;D074,None
+P0624,Brandy Robertson,27,Los Angeles,Diabetes,"Diagnosed with Diabetes in 2019, under ongoing treatment.",D043;D017,Dust
+P0625,Jason Scott,38,Denver,Migraine,"Diagnosed with Migraine in 2023, under ongoing treatment.",D003;D055,Dust
+P0626,Allison Campbell,53,Chicago,Asthma,"Diagnosed with Asthma in 2017, under ongoing treatment.",D016,Penicillin
+P0627,Angela Robinson,25,Chicago,Asthma,"Diagnosed with Asthma in 2017, under ongoing treatment.",D066;D083,None
+P0628,Janice Oconnor,43,Houston,Arthritis,"Diagnosed with Arthritis in 2017, under ongoing treatment.",D056;D068,Peanuts
+P0629,Bradley Miller,57,Los Angeles,Migraine,"Diagnosed with Migraine in 2010, under ongoing treatment.",D098;D096,None
+P0630,Teresa Kim,73,Chicago,Hypertension,"Diagnosed with Hypertension in 2023, under ongoing treatment.",D005;D004,None
+P0631,David Shaffer,65,New York,Asthma,"Diagnosed with Asthma in 2013, under ongoing treatment.",D094;D028;D091,None
+P0632,Dustin Castillo,52,Houston,Allergy,"Diagnosed with Allergy in 2011, under ongoing treatment.",D081;D085,None
+P0633,Jennifer Espinoza,50,Los Angeles,Migraine,"Diagnosed with Migraine in 2016, under ongoing treatment.",D075;D043;D004,Penicillin
+P0634,Michael Cruz,85,New York,Allergy,"Diagnosed with Allergy in 2016, under ongoing treatment.",D099;D033;D018,None
+P0635,Brent Ross,79,New York,Asthma,"Diagnosed with Asthma in 2021, under ongoing treatment.",D025,None
+P0636,Aimee Clements,21,New York,Arthritis,"Diagnosed with Arthritis in 2015, under ongoing treatment.",D043;D060,Latex
+P0637,Deanna Mitchell,58,New York,Arthritis,"Diagnosed with Arthritis in 2023, under ongoing treatment.",D060,Latex
+P0638,Victor Bradley,36,Houston,Allergy,"Diagnosed with Allergy in 2010, under ongoing treatment.",D057;D005;D086,Penicillin
+P0639,Kathleen Martin,54,Denver,Heart Disease,"Diagnosed with Heart Disease in 2017, under ongoing treatment.",D004;D088,Dust
+P0640,Jason Jones,31,Los Angeles,Allergy,"Diagnosed with Allergy in 2022, under ongoing treatment.",D012;D045;D064,None
+P0641,Jason Nelson,62,New York,Migraine,"Diagnosed with Migraine in 2013, under ongoing treatment.",D065;D095;D039,None
+P0642,Anthony Evans,50,Houston,Diabetes,"Diagnosed with Diabetes in 2018, under ongoing treatment.",D017;D081;D074,Penicillin
+P0643,Lori Bennett,79,Denver,Arthritis,"Diagnosed with Arthritis in 2015, under ongoing treatment.",D011,Pollen
+P0644,Carlos Benson,73,Denver,Arthritis,"Diagnosed with Arthritis in 2010, under ongoing treatment.",D052;D019;D037,Peanuts
+P0645,Frank Jimenez,36,Miami,Migraine,"Diagnosed with Migraine in 2012, under ongoing treatment.",D015,Penicillin
+P0646,Lindsey Floyd,89,Miami,Asthma,"Diagnosed with Asthma in 2021, under ongoing treatment.",D061;D025,Latex
+P0647,Kara Weaver,89,Chicago,Diabetes,"Diagnosed with Diabetes in 2012, under ongoing treatment.",D029;D017;D065,Pollen
+P0648,Felicia Cook,86,Seattle,Heart Disease,"Diagnosed with Heart Disease in 2020, under ongoing treatment.",D083;D006;D028,Pollen
+P0649,Jasmine Reed,41,Miami,Migraine,"Diagnosed with Migraine in 2012, under ongoing treatment.",D086,Penicillin
+P0650,David Meza,26,Chicago,Allergy,"Diagnosed with Allergy in 2022, under ongoing treatment.",D081;D060;D002,Dust
+P0651,Kimberly Morales,56,Denver,Hypertension,"Diagnosed with Hypertension in 2019, under ongoing treatment.",D001,Pollen
+P0652,Crystal Knight,63,Miami,Arthritis,"Diagnosed with Arthritis in 2013, under ongoing treatment.",D009;D072;D042,Dust
+P0653,Dr. Jessica Conner DDS,71,Los Angeles,Migraine,"Diagnosed with Migraine in 2010, under ongoing treatment.",D064;D087;D081,Latex
+P0654,Natasha Hawkins,38,Los Angeles,Hypertension,"Diagnosed with Hypertension in 2011, under ongoing treatment.",D088,Latex
+P0655,Curtis Kemp,55,New York,Migraine,"Diagnosed with Migraine in 2020, under ongoing treatment.",D081;D018,Peanuts
+P0656,Laura Bond,21,Chicago,Asthma,"Diagnosed with Asthma in 2017, under ongoing treatment.",D079,Latex
+P0657,Melissa Atkinson,60,Miami,Hypertension,"Diagnosed with Hypertension in 2019, under ongoing treatment.",D043;D071,Latex
+P0658,Dr. Cathy Rodriguez,41,Chicago,Asthma,"Diagnosed with Asthma in 2020, under ongoing treatment.",D093;D095;D029,None
+P0659,Taylor Cantrell,81,Miami,Diabetes,"Diagnosed with Diabetes in 2014, under ongoing treatment.",D024;D061;D014,Peanuts
+P0660,Andrea Garcia,67,Seattle,Arthritis,"Diagnosed with Arthritis in 2022, under ongoing treatment.",D014;D059;D004,Penicillin
+P0661,Michelle Donovan,54,Los Angeles,Heart Disease,"Diagnosed with Heart Disease in 2023, under ongoing treatment.",D038;D008,Latex
+P0662,Andrew Jenkins,44,Houston,Asthma,"Diagnosed with Asthma in 2023, under ongoing treatment.",D067;D095;D034,Peanuts
+P0663,Tammy Mendoza,41,Miami,Hypertension,"Diagnosed with Hypertension in 2019, under ongoing treatment.",D049;D010,Latex
+P0664,Frank Mckinney,55,Denver,Arthritis,"Diagnosed with Arthritis in 2021, under ongoing treatment.",D017,Latex
+P0665,Stephanie Anderson,24,Denver,Migraine,"Diagnosed with Migraine in 2019, under ongoing treatment.",D033;D081,Latex
+P0666,David Diaz,39,Houston,Arthritis,"Diagnosed with Arthritis in 2012, under ongoing treatment.",D081;D005;D006,None
+P0667,Richard Gay,80,Chicago,Asthma,"Diagnosed with Asthma in 2016, under ongoing treatment.",D021;D068,Pollen
+P0668,Monique Edwards,48,Chicago,Diabetes,"Diagnosed with Diabetes in 2011, under ongoing treatment.",D009;D056;D023,None
+P0669,Jennifer Kirby,54,Chicago,Diabetes,"Diagnosed with Diabetes in 2021, under ongoing treatment.",D064;D038;D034,Latex
+P0670,Brandon Gaines,24,Miami,Diabetes,"Diagnosed with Diabetes in 2011, under ongoing treatment.",D096;D028;D090,Penicillin
+P0671,Keith Klein,19,Los Angeles,Hypertension,"Diagnosed with Hypertension in 2022, under ongoing treatment.",D097,Peanuts
+P0672,Richard Tran,89,Miami,Diabetes,"Diagnosed with Diabetes in 2022, under ongoing treatment.",D070;D059,Penicillin
+P0673,Brian Ballard,55,Miami,Diabetes,"Diagnosed with Diabetes in 2010, under ongoing treatment.",D031;D015,Latex
+P0674,Rebecca Cohen,40,Houston,Hypertension,"Diagnosed with Hypertension in 2017, under ongoing treatment.",D071,Penicillin
+P0675,Rodney Clark,76,Denver,Heart Disease,"Diagnosed with Heart Disease in 2022, under ongoing treatment.",D039;D030,Pollen
+P0676,Joseph Holder,90,Seattle,Heart Disease,"Diagnosed with Heart Disease in 2010, under ongoing treatment.",D057,None
+P0677,Gary Fuentes,87,Miami,Asthma,"Diagnosed with Asthma in 2021, under ongoing treatment.",D087;D050;D030,Pollen
+P0678,Nathan Henderson,88,Denver,Arthritis,"Diagnosed with Arthritis in 2016, under ongoing treatment.",D040;D093,Penicillin
+P0679,Ronnie Allison,74,Houston,Diabetes,"Diagnosed with Diabetes in 2015, under ongoing treatment.",D045;D024,Pollen
+P0680,Mason Anderson,39,Miami,Heart Disease,"Diagnosed with Heart Disease in 2010, under ongoing treatment.",D076,Peanuts
+P0681,Deborah Nichols,89,Denver,Diabetes,"Diagnosed with Diabetes in 2010, under ongoing treatment.",D014;D096;D073,Pollen
+P0682,Gail Williams,30,Chicago,Hypertension,"Diagnosed with Hypertension in 2015, under ongoing treatment.",D008,None
+P0683,Tina Boyle,83,Denver,Arthritis,"Diagnosed with Arthritis in 2022, under ongoing treatment.",D028,None
+P0684,Elizabeth Mccoy,58,Seattle,Diabetes,"Diagnosed with Diabetes in 2014, under ongoing treatment.",D053;D014,Dust
+P0685,Cynthia Bullock,72,Miami,Migraine,"Diagnosed with Migraine in 2023, under ongoing treatment.",D021;D056;D080,Pollen
+P0686,Robert Vega,29,Houston,Hypertension,"Diagnosed with Hypertension in 2023, under ongoing treatment.",D053;D063;D001,Penicillin
+P0687,Cheryl Newton,90,Chicago,Diabetes,"Diagnosed with Diabetes in 2023, under ongoing treatment.",D077,None
+P0688,Michael Garcia,47,Denver,Diabetes,"Diagnosed with Diabetes in 2021, under ongoing treatment.",D005,None
+P0689,Daniel Wright,62,New York,Arthritis,"Diagnosed with Arthritis in 2018, under ongoing treatment.",D076;D100;D040,Latex
+P0690,Alicia Maldonado,38,Miami,Arthritis,"Diagnosed with Arthritis in 2014, under ongoing treatment.",D098,Dust
+P0691,Victoria Rose,21,Houston,Heart Disease,"Diagnosed with Heart Disease in 2017, under ongoing treatment.",D074;D065;D070,Peanuts
+P0692,Morgan Mendez,75,Denver,Heart Disease,"Diagnosed with Heart Disease in 2021, under ongoing treatment.",D082;D097;D056,None
+P0693,Victor Fischer,61,Miami,Allergy,"Diagnosed with Allergy in 2011, under ongoing treatment.",D048,Latex
+P0694,Laura Johnson,54,Miami,Allergy,"Diagnosed with Allergy in 2016, under ongoing treatment.",D013;D038;D093,None
+P0695,Matthew Lee,86,Chicago,Arthritis,"Diagnosed with Arthritis in 2019, under ongoing treatment.",D051;D028,Penicillin
+P0696,Frank Estrada,20,Los Angeles,Diabetes,"Diagnosed with Diabetes in 2013, under ongoing treatment.",D075;D076;D007,None
+P0697,Michael Gonzalez,29,Miami,Allergy,"Diagnosed with Allergy in 2020, under ongoing treatment.",D086,Pollen
+P0698,Amanda Ruiz,23,Denver,Allergy,"Diagnosed with Allergy in 2010, under ongoing treatment.",D095;D044,Dust
+P0699,Ronald Nichols,56,Los Angeles,Hypertension,"Diagnosed with Hypertension in 2012, under ongoing treatment.",D001;D075,Penicillin
+P0700,Janice Sanders,71,Houston,Arthritis,"Diagnosed with Arthritis in 2014, under ongoing treatment.",D070;D013;D009,None
+P0701,Heather Burns,67,Chicago,Hypertension,"Diagnosed with Hypertension in 2015, under ongoing treatment.",D018,None
+P0702,David Nelson,87,Seattle,Diabetes,"Diagnosed with Diabetes in 2013, under ongoing treatment.",D062;D090;D069,Dust
+P0703,Michael Chang,89,Los Angeles,Allergy,"Diagnosed with Allergy in 2014, under ongoing treatment.",D070;D092;D069,Penicillin
+P0704,Monique Sweeney,51,New York,Asthma,"Diagnosed with Asthma in 2013, under ongoing treatment.",D055,Latex
+P0705,Vanessa Decker,27,Chicago,Migraine,"Diagnosed with Migraine in 2022, under ongoing treatment.",D099;D078,Latex
+P0706,Mr. Todd Adams MD,69,Chicago,Asthma,"Diagnosed with Asthma in 2018, under ongoing treatment.",D081,Dust
+P0707,Melissa Johnson,40,Denver,Asthma,"Diagnosed with Asthma in 2012, under ongoing treatment.",D064;D003,Penicillin
+P0708,Adrian Hurley,61,New York,Arthritis,"Diagnosed with Arthritis in 2010, under ongoing treatment.",D001,Dust
+P0709,Edwin Finley,75,Denver,Heart Disease,"Diagnosed with Heart Disease in 2019, under ongoing treatment.",D075;D089,Penicillin
+P0710,Mark Rosales,87,Denver,Heart Disease,"Diagnosed with Heart Disease in 2023, under ongoing treatment.",D044;D075,None
+P0711,Jonathan Boyd,81,New York,Hypertension,"Diagnosed with Hypertension in 2022, under ongoing treatment.",D016,Penicillin
+P0712,Alicia Fuller,52,Chicago,Heart Disease,"Diagnosed with Heart Disease in 2011, under ongoing treatment.",D083;D003,Peanuts
+P0713,Nicholas Burch,81,Seattle,Hypertension,"Diagnosed with Hypertension in 2012, under ongoing treatment.",D088;D093;D038,Dust
+P0714,Jessica Stokes,76,Chicago,Asthma,"Diagnosed with Asthma in 2014, under ongoing treatment.",D016;D068;D061,Latex
+P0715,Darren Smith,69,Denver,Heart Disease,"Diagnosed with Heart Disease in 2019, under ongoing treatment.",D092;D015,Pollen
+P0716,Robert Woods,76,Chicago,Hypertension,"Diagnosed with Hypertension in 2012, under ongoing treatment.",D023,Peanuts
+P0717,Jose Kelley,66,Houston,Migraine,"Diagnosed with Migraine in 2016, under ongoing treatment.",D041;D020,Dust
+P0718,Robert Fuentes,87,Seattle,Asthma,"Diagnosed with Asthma in 2010, under ongoing treatment.",D038,None
+P0719,Tyrone Walters,76,Chicago,Diabetes,"Diagnosed with Diabetes in 2013, under ongoing treatment.",D047,Dust
+P0720,Angela Miller,20,Seattle,Heart Disease,"Diagnosed with Heart Disease in 2019, under ongoing treatment.",D061;D036;D033,Dust
+P0721,Arthur Hill,45,Denver,Hypertension,"Diagnosed with Hypertension in 2016, under ongoing treatment.",D020,Dust
+P0722,Tyler Brown,37,Los Angeles,Diabetes,"Diagnosed with Diabetes in 2016, under ongoing treatment.",D038;D026,Dust
+P0723,Melissa Barrera,69,Seattle,Migraine,"Diagnosed with Migraine in 2019, under ongoing treatment.",D006;D029,Pollen
+P0724,Stacey Pugh,49,Denver,Allergy,"Diagnosed with Allergy in 2014, under ongoing treatment.",D060;D044,Penicillin
+P0725,Andrew Burns,40,Seattle,Asthma,"Diagnosed with Asthma in 2017, under ongoing treatment.",D050;D045;D095,Dust
+P0726,Donna Price,32,Chicago,Migraine,"Diagnosed with Migraine in 2022, under ongoing treatment.",D049,Peanuts
+P0727,Paul Perkins,55,Miami,Arthritis,"Diagnosed with Arthritis in 2014, under ongoing treatment.",D071;D068,Dust
+P0728,Richard Robinson,42,Los Angeles,Diabetes,"Diagnosed with Diabetes in 2023, under ongoing treatment.",D054,Penicillin
+P0729,Jordan Armstrong,58,Denver,Arthritis,"Diagnosed with Arthritis in 2010, under ongoing treatment.",D010,Dust
+P0730,Victoria Thompson,73,Seattle,Asthma,"Diagnosed with Asthma in 2011, under ongoing treatment.",D029;D094,Peanuts
+P0731,Deborah Williams,45,Los Angeles,Arthritis,"Diagnosed with Arthritis in 2011, under ongoing treatment.",D009;D079;D048,Latex
+P0732,John Pennington,74,Denver,Asthma,"Diagnosed with Asthma in 2015, under ongoing treatment.",D024;D055,Penicillin
+P0733,Carlos Hoffman,76,Los Angeles,Diabetes,"Diagnosed with Diabetes in 2017, under ongoing treatment.",D081;D047;D057,Dust
+P0734,John Hardy,89,Seattle,Diabetes,"Diagnosed with Diabetes in 2020, under ongoing treatment.",D066;D092,Pollen
+P0735,Roger Sanders,45,Seattle,Allergy,"Diagnosed with Allergy in 2012, under ongoing treatment.",D045,Dust
+P0736,Cassandra Prince,76,New York,Diabetes,"Diagnosed with Diabetes in 2014, under ongoing treatment.",D086;D008,Dust
+P0737,Patricia Black,34,New York,Migraine,"Diagnosed with Migraine in 2015, under ongoing treatment.",D056,Pollen
+P0738,Jeffrey Martinez,19,Chicago,Allergy,"Diagnosed with Allergy in 2017, under ongoing treatment.",D080,Peanuts
+P0739,Theresa Miller,61,Los Angeles,Migraine,"Diagnosed with Migraine in 2022, under ongoing treatment.",D045;D013;D066,Penicillin
+P0740,David Barrett,70,New York,Diabetes,"Diagnosed with Diabetes in 2018, under ongoing treatment.",D067,Latex
+P0741,Rebecca Logan,30,Seattle,Heart Disease,"Diagnosed with Heart Disease in 2019, under ongoing treatment.",D031;D100;D039,Latex
+P0742,Colleen Spencer,64,Seattle,Heart Disease,"Diagnosed with Heart Disease in 2012, under ongoing treatment.",D032;D054,Peanuts
+P0743,Wesley Smith,43,Miami,Asthma,"Diagnosed with Asthma in 2017, under ongoing treatment.",D050;D058;D002,Pollen
+P0744,Jesus Martin,57,Seattle,Migraine,"Diagnosed with Migraine in 2013, under ongoing treatment.",D046;D009;D050,Peanuts
+P0745,Jennifer Glenn,23,Seattle,Diabetes,"Diagnosed with Diabetes in 2017, under ongoing treatment.",D098;D071,Dust
+P0746,Natalie Brown,30,Los Angeles,Allergy,"Diagnosed with Allergy in 2021, under ongoing treatment.",D043;D067,Peanuts
+P0747,Shannon Pearson,48,Miami,Allergy,"Diagnosed with Allergy in 2014, under ongoing treatment.",D034,Peanuts
+P0748,Mr. Clarence Robertson DVM,52,New York,Heart Disease,"Diagnosed with Heart Disease in 2012, under ongoing treatment.",D100;D065,Latex
+P0749,Terry Wood,32,Los Angeles,Allergy,"Diagnosed with Allergy in 2021, under ongoing treatment.",D018;D020;D041,Dust
+P0750,Justin Love,20,Los Angeles,Hypertension,"Diagnosed with Hypertension in 2010, under ongoing treatment.",D010;D094;D096,Latex
+P0751,Teresa King,51,Seattle,Diabetes,"Diagnosed with Diabetes in 2017, under ongoing treatment.",D034;D074,Peanuts
+P0752,Matthew Clark,38,Miami,Heart Disease,"Diagnosed with Heart Disease in 2016, under ongoing treatment.",D041;D084,None
+P0753,Jeremy Davidson,25,Houston,Asthma,"Diagnosed with Asthma in 2012, under ongoing treatment.",D044;D045;D067,Penicillin
+P0754,John Blanchard,30,New York,Arthritis,"Diagnosed with Arthritis in 2016, under ongoing treatment.",D082,Peanuts
+P0755,Tonya Buchanan,53,New York,Migraine,"Diagnosed with Migraine in 2017, under ongoing treatment.",D006,Pollen
+P0756,Angela Stewart,50,Denver,Diabetes,"Diagnosed with Diabetes in 2020, under ongoing treatment.",D038;D100,Penicillin
+P0757,Kristi Evans,20,Seattle,Migraine,"Diagnosed with Migraine in 2021, under ongoing treatment.",D037;D084,Latex
+P0758,Jeremy Johnson,23,Chicago,Allergy,"Diagnosed with Allergy in 2012, under ongoing treatment.",D015,Peanuts
+P0759,Alexandra Pierce,63,Miami,Diabetes,"Diagnosed with Diabetes in 2019, under ongoing treatment.",D004,Peanuts
+P0760,Kristina Ramirez,27,Seattle,Migraine,"Diagnosed with Migraine in 2020, under ongoing treatment.",D011,Penicillin
+P0761,Michael King,60,Chicago,Diabetes,"Diagnosed with Diabetes in 2011, under ongoing treatment.",D055,Pollen
+P0762,Emily Washington,67,New York,Heart Disease,"Diagnosed with Heart Disease in 2019, under ongoing treatment.",D002;D017,Penicillin
+P0763,Gabriel Diaz MD,48,Miami,Heart Disease,"Diagnosed with Heart Disease in 2023, under ongoing treatment.",D089;D047,None
+P0764,Martha Goodman,19,Miami,Diabetes,"Diagnosed with Diabetes in 2018, under ongoing treatment.",D033;D044,Peanuts
+P0765,Kevin Kramer,24,Los Angeles,Arthritis,"Diagnosed with Arthritis in 2014, under ongoing treatment.",D094;D067;D049,Penicillin
+P0766,Brenda Smith,57,Seattle,Migraine,"Diagnosed with Migraine in 2015, under ongoing treatment.",D024;D011,Pollen
+P0767,Justin Pacheco,65,Miami,Asthma,"Diagnosed with Asthma in 2017, under ongoing treatment.",D054;D028,Dust
+P0768,Robert Santiago,72,Denver,Migraine,"Diagnosed with Migraine in 2021, under ongoing treatment.",D042,Dust
+P0769,Glenda Ayala,22,Denver,Asthma,"Diagnosed with Asthma in 2013, under ongoing treatment.",D099;D074,Peanuts
+P0770,Troy Blake,68,New York,Migraine,"Diagnosed with Migraine in 2022, under ongoing treatment.",D076;D047,None
+P0771,Anna Jones,88,Los Angeles,Hypertension,"Diagnosed with Hypertension in 2023, under ongoing treatment.",D038;D069;D093,Penicillin
+P0772,Johnny Griffith,83,Miami,Allergy,"Diagnosed with Allergy in 2014, under ongoing treatment.",D056;D059,Peanuts
+P0773,Margaret Collins,54,Denver,Diabetes,"Diagnosed with Diabetes in 2023, under ongoing treatment.",D025;D063,Penicillin
+P0774,Yolanda Lambert,87,Chicago,Allergy,"Diagnosed with Allergy in 2019, under ongoing treatment.",D059,None
+P0775,Cameron Andrews,31,Chicago,Diabetes,"Diagnosed with Diabetes in 2013, under ongoing treatment.",D001;D099,Pollen
+P0776,Terri Hudson,20,Houston,Allergy,"Diagnosed with Allergy in 2013, under ongoing treatment.",D066;D048;D044,Latex
+P0777,Heather Perry,27,Los Angeles,Arthritis,"Diagnosed with Arthritis in 2023, under ongoing treatment.",D054;D061,None
+P0778,Devon Ochoa,82,New York,Heart Disease,"Diagnosed with Heart Disease in 2011, under ongoing treatment.",D022,Pollen
+P0779,Michael Copeland,24,Los Angeles,Allergy,"Diagnosed with Allergy in 2017, under ongoing treatment.",D096;D006,Pollen
+P0780,Wayne Watson,63,New York,Asthma,"Diagnosed with Asthma in 2011, under ongoing treatment.",D069,Latex
+P0781,Catherine Meyer,71,Seattle,Diabetes,"Diagnosed with Diabetes in 2014, under ongoing treatment.",D047;D052;D097,Penicillin
+P0782,Theresa Espinoza,44,Chicago,Arthritis,"Diagnosed with Arthritis in 2015, under ongoing treatment.",D074,Dust
+P0783,James Ray,87,Denver,Migraine,"Diagnosed with Migraine in 2015, under ongoing treatment.",D062;D011,None
+P0784,Jacob Hutchinson,50,Chicago,Heart Disease,"Diagnosed with Heart Disease in 2010, under ongoing treatment.",D001;D010,Pollen
+P0785,Herbert Rivera,51,Houston,Diabetes,"Diagnosed with Diabetes in 2023, under ongoing treatment.",D020;D078;D051,Latex
+P0786,Sarah Fischer,57,Chicago,Asthma,"Diagnosed with Asthma in 2010, under ongoing treatment.",D039,Peanuts
+P0787,Kelsey Johnson,59,Houston,Migraine,"Diagnosed with Migraine in 2011, under ongoing treatment.",D061;D040,None
+P0788,Isaiah Walker,71,New York,Arthritis,"Diagnosed with Arthritis in 2012, under ongoing treatment.",D003;D026,Peanuts
+P0789,Emily Yates,69,New York,Asthma,"Diagnosed with Asthma in 2015, under ongoing treatment.",D019;D032,Penicillin
+P0790,Lawrence Mckenzie,83,Miami,Allergy,"Diagnosed with Allergy in 2022, under ongoing treatment.",D077,None
+P0791,Brian Salinas,39,Chicago,Heart Disease,"Diagnosed with Heart Disease in 2015, under ongoing treatment.",D080,Dust
+P0792,Ashley Patel,80,Houston,Allergy,"Diagnosed with Allergy in 2017, under ongoing treatment.",D033;D056;D045,None
+P0793,Brian Banks,21,Los Angeles,Hypertension,"Diagnosed with Hypertension in 2012, under ongoing treatment.",D065;D090;D071,None
+P0794,George Diaz,62,New York,Diabetes,"Diagnosed with Diabetes in 2016, under ongoing treatment.",D028;D083,Latex
+P0795,Tammy Wilkins,64,Miami,Migraine,"Diagnosed with Migraine in 2013, under ongoing treatment.",D083,Dust
+P0796,Randy Oliver,22,Seattle,Arthritis,"Diagnosed with Arthritis in 2019, under ongoing treatment.",D016;D035;D043,Peanuts
+P0797,Matthew Fitzgerald,70,Chicago,Asthma,"Diagnosed with Asthma in 2021, under ongoing treatment.",D068;D098;D042,Pollen
+P0798,Valerie Pratt,70,Seattle,Migraine,"Diagnosed with Migraine in 2013, under ongoing treatment.",D070;D024;D014,Latex
+P0799,Cindy Martinez,69,Los Angeles,Asthma,"Diagnosed with Asthma in 2023, under ongoing treatment.",D079;D082,Peanuts
+P0800,Vickie Webb,71,Houston,Arthritis,"Diagnosed with Arthritis in 2018, under ongoing treatment.",D098;D096,Penicillin
+P0801,Bradley Moreno,29,Miami,Migraine,"Diagnosed with Migraine in 2014, under ongoing treatment.",D066,Dust
+P0802,Ian Miller,41,Houston,Heart Disease,"Diagnosed with Heart Disease in 2020, under ongoing treatment.",D005;D019,None
+P0803,Justin Evans,85,New York,Heart Disease,"Diagnosed with Heart Disease in 2011, under ongoing treatment.",D089;D094;D019,Pollen
+P0804,Rebekah Thomas,60,Seattle,Diabetes,"Diagnosed with Diabetes in 2019, under ongoing treatment.",D019;D075;D071,Dust
+P0805,Brian Harding,84,Chicago,Allergy,"Diagnosed with Allergy in 2011, under ongoing treatment.",D002,Peanuts
+P0806,Brianna Smith,24,Denver,Allergy,"Diagnosed with Allergy in 2019, under ongoing treatment.",D035,Dust
+P0807,Christian Brown,24,Chicago,Heart Disease,"Diagnosed with Heart Disease in 2023, under ongoing treatment.",D002,Dust
+P0808,Robert Macdonald,20,Seattle,Hypertension,"Diagnosed with Hypertension in 2020, under ongoing treatment.",D081;D014;D062,Latex
+P0809,Jessica Williamson,64,Denver,Arthritis,"Diagnosed with Arthritis in 2017, under ongoing treatment.",D034,Pollen
+P0810,Richard Hall,21,Chicago,Allergy,"Diagnosed with Allergy in 2010, under ongoing treatment.",D041,Dust
+P0811,Bridget Wu,74,Chicago,Migraine,"Diagnosed with Migraine in 2017, under ongoing treatment.",D068,Latex
+P0812,Melissa Wilson,59,Seattle,Arthritis,"Diagnosed with Arthritis in 2013, under ongoing treatment.",D012;D037;D052,Penicillin
+P0813,Katie Miller,79,Seattle,Allergy,"Diagnosed with Allergy in 2021, under ongoing treatment.",D002,Dust
+P0814,Tracy Adams,69,New York,Diabetes,"Diagnosed with Diabetes in 2012, under ongoing treatment.",D097;D096,Dust
+P0815,Gary Weber,30,Houston,Diabetes,"Diagnosed with Diabetes in 2010, under ongoing treatment.",D059;D016;D041,Peanuts
+P0816,David Watson,35,Chicago,Migraine,"Diagnosed with Migraine in 2017, under ongoing treatment.",D020;D028,Pollen
+P0817,Nathan Sandoval,61,New York,Arthritis,"Diagnosed with Arthritis in 2012, under ongoing treatment.",D031,Dust
+P0818,Sarah Martin,45,Miami,Diabetes,"Diagnosed with Diabetes in 2018, under ongoing treatment.",D022;D089;D027,Peanuts
+P0819,Cameron Porter,57,Denver,Heart Disease,"Diagnosed with Heart Disease in 2019, under ongoing treatment.",D038;D085;D013,Dust
+P0820,Lindsey Boyd,27,Los Angeles,Arthritis,"Diagnosed with Arthritis in 2014, under ongoing treatment.",D088;D011;D099,Dust
+P0821,Tammy George,66,Los Angeles,Asthma,"Diagnosed with Asthma in 2023, under ongoing treatment.",D075;D053,None
+P0822,Virginia Crane,66,Miami,Migraine,"Diagnosed with Migraine in 2017, under ongoing treatment.",D080,Pollen
+P0823,William Parker,74,Houston,Allergy,"Diagnosed with Allergy in 2014, under ongoing treatment.",D044;D005,None
+P0824,Kevin Luna,85,Los Angeles,Diabetes,"Diagnosed with Diabetes in 2021, under ongoing treatment.",D044;D032;D087,Latex
+P0825,Sean Thompson,42,New York,Asthma,"Diagnosed with Asthma in 2011, under ongoing treatment.",D061;D060,Peanuts
+P0826,David Williams,85,Chicago,Migraine,"Diagnosed with Migraine in 2017, under ongoing treatment.",D019;D083,None
+P0827,Michael Cox,48,New York,Migraine,"Diagnosed with Migraine in 2018, under ongoing treatment.",D002,Latex
+P0828,Robert Martinez,20,New York,Migraine,"Diagnosed with Migraine in 2020, under ongoing treatment.",D006,None
+P0829,Tyler Macias,35,New York,Diabetes,"Diagnosed with Diabetes in 2014, under ongoing treatment.",D036,None
+P0830,Brandi Reid MD,29,Los Angeles,Diabetes,"Diagnosed with Diabetes in 2010, under ongoing treatment.",D063,None
+P0831,Mia Adams,60,Denver,Migraine,"Diagnosed with Migraine in 2019, under ongoing treatment.",D006;D046,Latex
+P0832,Richard Brooks,20,Seattle,Allergy,"Diagnosed with Allergy in 2011, under ongoing treatment.",D030;D052,Peanuts
+P0833,Susan Callahan,50,Los Angeles,Arthritis,"Diagnosed with Arthritis in 2012, under ongoing treatment.",D052;D003,Peanuts
+P0834,Cassandra Fox,57,Los Angeles,Diabetes,"Diagnosed with Diabetes in 2011, under ongoing treatment.",D011,Penicillin
+P0835,Antonio Patton,49,Los Angeles,Migraine,"Diagnosed with Migraine in 2018, under ongoing treatment.",D047;D055;D025,Dust
+P0836,Erin Lee,84,Los Angeles,Heart Disease,"Diagnosed with Heart Disease in 2012, under ongoing treatment.",D071,Dust
+P0837,Louis Crawford,70,Seattle,Diabetes,"Diagnosed with Diabetes in 2010, under ongoing treatment.",D048,Dust
+P0838,Wendy Martin,62,Houston,Hypertension,"Diagnosed with Hypertension in 2023, under ongoing treatment.",D053,Dust
+P0839,Erica Larson,57,Chicago,Allergy,"Diagnosed with Allergy in 2014, under ongoing treatment.",D098;D065,Pollen
+P0840,Tina Fischer,68,Denver,Asthma,"Diagnosed with Asthma in 2012, under ongoing treatment.",D064,Latex
+P0841,Tracy Green,40,Chicago,Hypertension,"Diagnosed with Hypertension in 2023, under ongoing treatment.",D092;D057,Latex
+P0842,Sara Everett,56,Seattle,Asthma,"Diagnosed with Asthma in 2012, under ongoing treatment.",D053,Latex
+P0843,Nicholas Wise,87,Miami,Hypertension,"Diagnosed with Hypertension in 2019, under ongoing treatment.",D008;D083;D064,Peanuts
+P0844,Lori Oliver,46,Seattle,Asthma,"Diagnosed with Asthma in 2011, under ongoing treatment.",D028;D087,Peanuts
+P0845,Rebecca Smith,51,Seattle,Allergy,"Diagnosed with Allergy in 2022, under ongoing treatment.",D002;D079;D071,Latex
+P0846,Alexis Rivera,60,Seattle,Migraine,"Diagnosed with Migraine in 2018, under ongoing treatment.",D099;D009,Pollen
+P0847,Joseph Heath,35,Chicago,Allergy,"Diagnosed with Allergy in 2017, under ongoing treatment.",D062;D003,None
+P0848,Brian Brown,40,Houston,Hypertension,"Diagnosed with Hypertension in 2011, under ongoing treatment.",D030;D068,Penicillin
+P0849,Makayla Walters,22,Chicago,Asthma,"Diagnosed with Asthma in 2014, under ongoing treatment.",D085;D076;D011,Dust
+P0850,Michael Griffith,54,Chicago,Allergy,"Diagnosed with Allergy in 2011, under ongoing treatment.",D091,Penicillin
+P0851,Samuel Scott,49,Houston,Arthritis,"Diagnosed with Arthritis in 2019, under ongoing treatment.",D053;D041;D057,Latex
+P0852,Jennifer Gallagher,53,Los Angeles,Heart Disease,"Diagnosed with Heart Disease in 2014, under ongoing treatment.",D041,Pollen
+P0853,Ashley Smith,32,Seattle,Diabetes,"Diagnosed with Diabetes in 2016, under ongoing treatment.",D066;D075,Penicillin
+P0854,Linda Adams,23,Denver,Arthritis,"Diagnosed with Arthritis in 2019, under ongoing treatment.",D034;D053,Pollen
+P0855,Jessica Velasquez,66,Los Angeles,Arthritis,"Diagnosed with Arthritis in 2017, under ongoing treatment.",D019;D056,None
+P0856,Kimberly Olsen,25,Denver,Diabetes,"Diagnosed with Diabetes in 2022, under ongoing treatment.",D005;D012;D023,Dust
+P0857,John Perez,40,Los Angeles,Diabetes,"Diagnosed with Diabetes in 2015, under ongoing treatment.",D059;D057;D033,Penicillin
+P0858,Kristopher Rodriguez,29,New York,Diabetes,"Diagnosed with Diabetes in 2020, under ongoing treatment.",D001,None
+P0859,Charles Jones,25,Los Angeles,Hypertension,"Diagnosed with Hypertension in 2021, under ongoing treatment.",D053,Pollen
+P0860,Stephen Parker,41,Denver,Hypertension,"Diagnosed with Hypertension in 2019, under ongoing treatment.",D085;D057;D065,Dust
+P0861,Cheryl Thomas,71,Los Angeles,Allergy,"Diagnosed with Allergy in 2010, under ongoing treatment.",D053;D084;D100,Penicillin
+P0862,Gabriella Fuller,66,New York,Hypertension,"Diagnosed with Hypertension in 2022, under ongoing treatment.",D056;D002,Penicillin
+P0863,Ross Clarke,60,Seattle,Asthma,"Diagnosed with Asthma in 2023, under ongoing treatment.",D008;D067;D100,Penicillin
+P0864,Travis Allen,26,New York,Arthritis,"Diagnosed with Arthritis in 2015, under ongoing treatment.",D036,Peanuts
+P0865,Sheryl Davis,68,Seattle,Migraine,"Diagnosed with Migraine in 2010, under ongoing treatment.",D065,Pollen
+P0866,Kyle Martin,32,Los Angeles,Asthma,"Diagnosed with Asthma in 2013, under ongoing treatment.",D045;D027,Pollen
+P0867,Lauren Austin,27,Houston,Asthma,"Diagnosed with Asthma in 2020, under ongoing treatment.",D003;D007,Penicillin
+P0868,Amber Scott,69,Miami,Allergy,"Diagnosed with Allergy in 2016, under ongoing treatment.",D099;D094;D059,Penicillin
+P0869,Mr. James Walters,35,Miami,Arthritis,"Diagnosed with Arthritis in 2018, under ongoing treatment.",D019;D073;D026,Dust
+P0870,Erin Jackson,54,Denver,Asthma,"Diagnosed with Asthma in 2021, under ongoing treatment.",D040;D093,Latex
+P0871,James Simmons,25,Chicago,Hypertension,"Diagnosed with Hypertension in 2023, under ongoing treatment.",D029;D085;D070,Peanuts
+P0872,Anthony Compton,35,New York,Hypertension,"Diagnosed with Hypertension in 2014, under ongoing treatment.",D018,Dust
+P0873,Sheila Gallegos,37,Miami,Arthritis,"Diagnosed with Arthritis in 2016, under ongoing treatment.",D076;D029,Pollen
+P0874,Stephen Bell,57,Los Angeles,Migraine,"Diagnosed with Migraine in 2022, under ongoing treatment.",D056,Pollen
+P0875,Barbara Fox,73,Denver,Hypertension,"Diagnosed with Hypertension in 2017, under ongoing treatment.",D084;D075;D055,None
+P0876,Stanley Day,78,Miami,Hypertension,"Diagnosed with Hypertension in 2021, under ongoing treatment.",D077,Peanuts
+P0877,Amy Brown,35,Seattle,Hypertension,"Diagnosed with Hypertension in 2013, under ongoing treatment.",D097;D016,Peanuts
+P0878,Kelly Bird,25,Los Angeles,Allergy,"Diagnosed with Allergy in 2016, under ongoing treatment.",D047;D058;D044,Peanuts
+P0879,Michael Brown,54,Los Angeles,Allergy,"Diagnosed with Allergy in 2023, under ongoing treatment.",D002,None
+P0880,Vickie Boone,73,New York,Arthritis,"Diagnosed with Arthritis in 2015, under ongoing treatment.",D079;D035;D097,Penicillin
+P0881,Carlos Patel,25,Houston,Heart Disease,"Diagnosed with Heart Disease in 2022, under ongoing treatment.",D092;D074,Peanuts
+P0882,Andrea Kim,40,Los Angeles,Migraine,"Diagnosed with Migraine in 2017, under ongoing treatment.",D056,Dust
+P0883,Julie Myers,78,Miami,Arthritis,"Diagnosed with Arthritis in 2020, under ongoing treatment.",D003;D071;D017,None
+P0884,Tina Rodriguez,81,Houston,Hypertension,"Diagnosed with Hypertension in 2012, under ongoing treatment.",D093,Pollen
+P0885,Karen Collins,78,Los Angeles,Asthma,"Diagnosed with Asthma in 2011, under ongoing treatment.",D049;D093,None
+P0886,Haley Harrison,81,New York,Asthma,"Diagnosed with Asthma in 2021, under ongoing treatment.",D074;D100,Pollen
+P0887,Raymond Stanley MD,46,Chicago,Asthma,"Diagnosed with Asthma in 2018, under ongoing treatment.",D093;D070,Penicillin
+P0888,John Johnson,73,New York,Heart Disease,"Diagnosed with Heart Disease in 2022, under ongoing treatment.",D096,Latex
+P0889,Timothy Castillo,43,Denver,Arthritis,"Diagnosed with Arthritis in 2017, under ongoing treatment.",D060,Latex
+P0890,Mr. Mark Palmer,18,Chicago,Migraine,"Diagnosed with Migraine in 2022, under ongoing treatment.",D032,Penicillin
+P0891,Mary Young,83,New York,Asthma,"Diagnosed with Asthma in 2011, under ongoing treatment.",D083;D001;D099,Pollen
+P0892,Monica Lowe,48,Miami,Heart Disease,"Diagnosed with Heart Disease in 2013, under ongoing treatment.",D034,Latex
+P0893,Heidi Hines,90,Miami,Hypertension,"Diagnosed with Hypertension in 2010, under ongoing treatment.",D093,None
+P0894,Corey Williams,55,Seattle,Asthma,"Diagnosed with Asthma in 2011, under ongoing treatment.",D058;D004;D023,Dust
+P0895,Michael Berry PhD,79,Denver,Arthritis,"Diagnosed with Arthritis in 2021, under ongoing treatment.",D091;D048,None
+P0896,Michael Hancock,27,Denver,Arthritis,"Diagnosed with Arthritis in 2023, under ongoing treatment.",D004,Peanuts
+P0897,Jason Robertson,27,Houston,Arthritis,"Diagnosed with Arthritis in 2023, under ongoing treatment.",D040;D021,Latex
+P0898,Michael Carter,59,Denver,Asthma,"Diagnosed with Asthma in 2021, under ongoing treatment.",D015,Penicillin
+P0899,Tiffany Davis,31,Miami,Migraine,"Diagnosed with Migraine in 2022, under ongoing treatment.",D021;D029,Dust
+P0900,Gregory Sanchez,55,Miami,Migraine,"Diagnosed with Migraine in 2015, under ongoing treatment.",D031;D043;D010,Peanuts
+P0901,Gary Stanton,37,Chicago,Diabetes,"Diagnosed with Diabetes in 2020, under ongoing treatment.",D014;D012;D100,Penicillin
+P0902,Timothy Mann,80,Miami,Heart Disease,"Diagnosed with Heart Disease in 2017, under ongoing treatment.",D099;D062;D056,Penicillin
+P0903,Isaiah Logan,48,Houston,Asthma,"Diagnosed with Asthma in 2015, under ongoing treatment.",D076;D029;D078,Peanuts
+P0904,Kayla Carey,18,Los Angeles,Arthritis,"Diagnosed with Arthritis in 2014, under ongoing treatment.",D039;D007,Latex
+P0905,James Butler,28,Los Angeles,Hypertension,"Diagnosed with Hypertension in 2022, under ongoing treatment.",D036;D083;D071,None
+P0906,Jasmine Smith,59,Houston,Heart Disease,"Diagnosed with Heart Disease in 2023, under ongoing treatment.",D001;D087;D062,Dust
+P0907,Stephen Howard,36,Los Angeles,Arthritis,"Diagnosed with Arthritis in 2020, under ongoing treatment.",D065;D016,Penicillin
+P0908,Robert Walker,63,Los Angeles,Allergy,"Diagnosed with Allergy in 2013, under ongoing treatment.",D020,Pollen
+P0909,Ashley Garrison,46,Denver,Migraine,"Diagnosed with Migraine in 2016, under ongoing treatment.",D020;D055;D017,Latex
+P0910,Mary Huang,45,Los Angeles,Heart Disease,"Diagnosed with Heart Disease in 2019, under ongoing treatment.",D027;D075;D026,Peanuts
+P0911,Jeffrey Barker DVM,47,Miami,Migraine,"Diagnosed with Migraine in 2020, under ongoing treatment.",D001;D008;D029,Penicillin
+P0912,Mark Bass,55,Seattle,Hypertension,"Diagnosed with Hypertension in 2011, under ongoing treatment.",D015,Latex
+P0913,Dr. Kristin Gomez,74,Los Angeles,Diabetes,"Diagnosed with Diabetes in 2023, under ongoing treatment.",D001,Latex
+P0914,William Mccarthy,50,New York,Diabetes,"Diagnosed with Diabetes in 2011, under ongoing treatment.",D072;D020,Dust
+P0915,David Savage,21,Los Angeles,Hypertension,"Diagnosed with Hypertension in 2021, under ongoing treatment.",D034;D091,Peanuts
+P0916,Catherine Wilkerson,44,Denver,Hypertension,"Diagnosed with Hypertension in 2019, under ongoing treatment.",D062;D099;D011,Peanuts
+P0917,Matthew Gomez,27,Chicago,Hypertension,"Diagnosed with Hypertension in 2022, under ongoing treatment.",D092;D080;D089,Pollen
+P0918,Wayne Lee,40,New York,Asthma,"Diagnosed with Asthma in 2018, under ongoing treatment.",D079;D082,None
+P0919,Shelly Freeman,18,Los Angeles,Hypertension,"Diagnosed with Hypertension in 2016, under ongoing treatment.",D073;D054,Peanuts
+P0920,Sarah Peterson,47,Seattle,Heart Disease,"Diagnosed with Heart Disease in 2022, under ongoing treatment.",D047;D005;D062,None
+P0921,Karen Baker,85,Chicago,Asthma,"Diagnosed with Asthma in 2016, under ongoing treatment.",D005;D095;D006,Dust
+P0922,Michael Kent,22,Los Angeles,Allergy,"Diagnosed with Allergy in 2010, under ongoing treatment.",D072;D009,Latex
+P0923,Cameron Mckee,89,Seattle,Arthritis,"Diagnosed with Arthritis in 2019, under ongoing treatment.",D037,None
+P0924,David Payne,43,Los Angeles,Heart Disease,"Diagnosed with Heart Disease in 2011, under ongoing treatment.",D004;D036,Latex
+P0925,Richard Mclean,75,New York,Arthritis,"Diagnosed with Arthritis in 2018, under ongoing treatment.",D032;D084,Dust
+P0926,Nathan Rice,21,Houston,Migraine,"Diagnosed with Migraine in 2010, under ongoing treatment.",D027,Peanuts
+P0927,Brittany Alexander,51,Los Angeles,Asthma,"Diagnosed with Asthma in 2010, under ongoing treatment.",D015;D081,Dust
+P0928,Pamela Dalton,73,Chicago,Diabetes,"Diagnosed with Diabetes in 2010, under ongoing treatment.",D084;D041;D008,None
+P0929,Melanie Richardson,85,Houston,Heart Disease,"Diagnosed with Heart Disease in 2020, under ongoing treatment.",D024;D045,None
+P0930,Eric Combs,82,Houston,Arthritis,"Diagnosed with Arthritis in 2022, under ongoing treatment.",D079;D057;D058,Latex
+P0931,Curtis Hamilton,79,Seattle,Diabetes,"Diagnosed with Diabetes in 2013, under ongoing treatment.",D013,Dust
+P0932,Stacy Morris,18,Miami,Arthritis,"Diagnosed with Arthritis in 2023, under ongoing treatment.",D094;D095,Pollen
+P0933,Lance Henry,67,Denver,Migraine,"Diagnosed with Migraine in 2017, under ongoing treatment.",D016;D087,Peanuts
+P0934,Michael King,36,Denver,Migraine,"Diagnosed with Migraine in 2014, under ongoing treatment.",D021,Dust
+P0935,Michelle Burgess,84,Seattle,Arthritis,"Diagnosed with Arthritis in 2019, under ongoing treatment.",D028,Dust
+P0936,Mr. Robert Hogan,36,New York,Diabetes,"Diagnosed with Diabetes in 2019, under ongoing treatment.",D064;D020;D070,Pollen
+P0937,Christopher Sweeney,78,Los Angeles,Hypertension,"Diagnosed with Hypertension in 2013, under ongoing treatment.",D090;D020;D053,None
+P0938,Brittany Rogers,22,Denver,Allergy,"Diagnosed with Allergy in 2020, under ongoing treatment.",D004;D011;D100,Peanuts
+P0939,Ashley Smith,43,Seattle,Migraine,"Diagnosed with Migraine in 2014, under ongoing treatment.",D086;D071,Pollen
+P0940,William Cooper,71,New York,Hypertension,"Diagnosed with Hypertension in 2017, under ongoing treatment.",D048;D090;D018,Penicillin
+P0941,Mary Wood,32,Seattle,Hypertension,"Diagnosed with Hypertension in 2012, under ongoing treatment.",D056;D072,Penicillin
+P0942,Jason Grimes,54,Seattle,Diabetes,"Diagnosed with Diabetes in 2023, under ongoing treatment.",D062,Dust
+P0943,Rhonda Taylor,26,Seattle,Diabetes,"Diagnosed with Diabetes in 2022, under ongoing treatment.",D020;D036,Pollen
+P0944,Joseph Pace,68,Houston,Asthma,"Diagnosed with Asthma in 2020, under ongoing treatment.",D080,None
+P0945,Brian Rodriguez,76,Miami,Heart Disease,"Diagnosed with Heart Disease in 2011, under ongoing treatment.",D039;D088,Pollen
+P0946,Ann Zimmerman,65,New York,Heart Disease,"Diagnosed with Heart Disease in 2010, under ongoing treatment.",D037;D042;D010,Peanuts
+P0947,Jim Hoffman,45,Denver,Arthritis,"Diagnosed with Arthritis in 2021, under ongoing treatment.",D092;D025,Dust
+P0948,Donald Page,30,New York,Asthma,"Diagnosed with Asthma in 2021, under ongoing treatment.",D074;D004,Dust
+P0949,Rachel Hinton,88,Miami,Asthma,"Diagnosed with Asthma in 2015, under ongoing treatment.",D046;D078,Dust
+P0950,Tammy Lewis,43,Seattle,Diabetes,"Diagnosed with Diabetes in 2021, under ongoing treatment.",D042;D070;D052,Latex
+P0951,Haley Garrett,23,Seattle,Allergy,"Diagnosed with Allergy in 2014, under ongoing treatment.",D023,Pollen
+P0952,David Hunter,71,Miami,Hypertension,"Diagnosed with Hypertension in 2013, under ongoing treatment.",D089,Latex
+P0953,Amber Peterson,20,Los Angeles,Hypertension,"Diagnosed with Hypertension in 2013, under ongoing treatment.",D059;D092;D013,None
+P0954,Megan Silva,86,Miami,Asthma,"Diagnosed with Asthma in 2014, under ongoing treatment.",D087;D065,Pollen
+P0955,Alison Parks,55,Los Angeles,Asthma,"Diagnosed with Asthma in 2019, under ongoing treatment.",D085;D070;D005,Dust
+P0956,Cassidy Williams,65,Chicago,Heart Disease,"Diagnosed with Heart Disease in 2015, under ongoing treatment.",D024;D021;D069,Latex
+P0957,Justin Nelson,32,Denver,Diabetes,"Diagnosed with Diabetes in 2017, under ongoing treatment.",D097;D012,Pollen
+P0958,Katherine Martin,80,Seattle,Migraine,"Diagnosed with Migraine in 2015, under ongoing treatment.",D045;D019,Pollen
+P0959,Donna Higgins,56,Houston,Diabetes,"Diagnosed with Diabetes in 2013, under ongoing treatment.",D032;D043,None
+P0960,Joshua Pace,45,Denver,Migraine,"Diagnosed with Migraine in 2020, under ongoing treatment.",D059;D084;D036,Latex
+P0961,Adam Ross,70,Miami,Migraine,"Diagnosed with Migraine in 2021, under ongoing treatment.",D065,Dust
+P0962,Julie Palmer,90,Miami,Migraine,"Diagnosed with Migraine in 2020, under ongoing treatment.",D021;D035,Peanuts
+P0963,Rebecca Young,60,Houston,Arthritis,"Diagnosed with Arthritis in 2023, under ongoing treatment.",D022,Dust
+P0964,Kimberly Chapman,90,Miami,Arthritis,"Diagnosed with Arthritis in 2016, under ongoing treatment.",D091,None
+P0965,Cynthia Nelson,73,Miami,Allergy,"Diagnosed with Allergy in 2012, under ongoing treatment.",D066,Pollen
+P0966,Cheryl Miles,34,Houston,Migraine,"Diagnosed with Migraine in 2022, under ongoing treatment.",D092,Dust
+P0967,Charles Whitehead,49,New York,Asthma,"Diagnosed with Asthma in 2010, under ongoing treatment.",D097;D008;D057,Latex
+P0968,Steven Oliver,74,Houston,Allergy,"Diagnosed with Allergy in 2013, under ongoing treatment.",D086;D048;D095,Pollen
+P0969,Ryan Boyle,76,Chicago,Heart Disease,"Diagnosed with Heart Disease in 2013, under ongoing treatment.",D054;D010,Peanuts
+P0970,Mike Yates,87,Seattle,Hypertension,"Diagnosed with Hypertension in 2022, under ongoing treatment.",D098,Dust
+P0971,Kristopher Hammond,34,Chicago,Heart Disease,"Diagnosed with Heart Disease in 2012, under ongoing treatment.",D034;D052,Penicillin
+P0972,Brandy Blake,36,Chicago,Diabetes,"Diagnosed with Diabetes in 2020, under ongoing treatment.",D094;D042,Dust
+P0973,Michelle Brady,27,Chicago,Heart Disease,"Diagnosed with Heart Disease in 2023, under ongoing treatment.",D054;D083;D092,Latex
+P0974,Kenneth Harmon,24,Denver,Hypertension,"Diagnosed with Hypertension in 2023, under ongoing treatment.",D048,Penicillin
+P0975,Sarah Wiley,24,New York,Migraine,"Diagnosed with Migraine in 2015, under ongoing treatment.",D064;D068;D063,Penicillin
+P0976,Bonnie Singleton,57,Miami,Asthma,"Diagnosed with Asthma in 2014, under ongoing treatment.",D084,None
+P0977,Dawn Ortega,33,Houston,Diabetes,"Diagnosed with Diabetes in 2018, under ongoing treatment.",D022,Peanuts
+P0978,Taylor Carr,44,Miami,Asthma,"Diagnosed with Asthma in 2012, under ongoing treatment.",D033;D076;D026,Dust
+P0979,Anthony Watts,71,New York,Hypertension,"Diagnosed with Hypertension in 2019, under ongoing treatment.",D033,Latex
+P0980,Dylan Thompson,19,Los Angeles,Asthma,"Diagnosed with Asthma in 2013, under ongoing treatment.",D066;D079,Pollen
+P0981,Mark Lambert,30,Denver,Migraine,"Diagnosed with Migraine in 2023, under ongoing treatment.",D095;D053,Penicillin
+P0982,Gregory Mitchell DVM,22,Los Angeles,Heart Disease,"Diagnosed with Heart Disease in 2017, under ongoing treatment.",D099;D084;D047,None
+P0983,Lisa Martinez,76,Miami,Diabetes,"Diagnosed with Diabetes in 2013, under ongoing treatment.",D068;D099;D014,Pollen
+P0984,Denise Rogers,37,Denver,Allergy,"Diagnosed with Allergy in 2015, under ongoing treatment.",D035;D065;D077,Dust
+P0985,Jared Copeland,76,Los Angeles,Arthritis,"Diagnosed with Arthritis in 2014, under ongoing treatment.",D077;D067,Penicillin
+P0986,Mark Allen,74,Los Angeles,Asthma,"Diagnosed with Asthma in 2014, under ongoing treatment.",D081;D008,Latex
+P0987,Heather Butler,86,Miami,Migraine,"Diagnosed with Migraine in 2019, under ongoing treatment.",D075,Penicillin
+P0988,Sara Davenport,18,Los Angeles,Hypertension,"Diagnosed with Hypertension in 2015, under ongoing treatment.",D015;D064,Latex
+P0989,Randy Peterson,61,Houston,Diabetes,"Diagnosed with Diabetes in 2019, under ongoing treatment.",D087,Penicillin
+P0990,Carmen Pittman,35,Miami,Heart Disease,"Diagnosed with Heart Disease in 2010, under ongoing treatment.",D035;D085;D006,Pollen
+P0991,Monica Martin MD,45,New York,Migraine,"Diagnosed with Migraine in 2020, under ongoing treatment.",D074;D088;D052,Dust
+P0992,Heather Fernandez,83,Denver,Migraine,"Diagnosed with Migraine in 2014, under ongoing treatment.",D065;D067;D098,None
+P0993,Emily Thompson,60,Seattle,Asthma,"Diagnosed with Asthma in 2010, under ongoing treatment.",D030,Peanuts
+P0994,Jonathan Fernandez,30,Denver,Hypertension,"Diagnosed with Hypertension in 2013, under ongoing treatment.",D066;D072;D002,Latex
+P0995,James Hicks,52,Seattle,Hypertension,"Diagnosed with Hypertension in 2014, under ongoing treatment.",D038;D007,Latex
+P0996,Heather Frey,30,New York,Arthritis,"Diagnosed with Arthritis in 2011, under ongoing treatment.",D003,Pollen
+P0997,Gary Smith,69,Seattle,Asthma,"Diagnosed with Asthma in 2010, under ongoing treatment.",D014;D057,Penicillin
+P0998,Tiffany Durham,82,Houston,Asthma,"Diagnosed with Asthma in 2016, under ongoing treatment.",D073,Peanuts
+P0999,Douglas King,80,Chicago,Diabetes,"Diagnosed with Diabetes in 2017, under ongoing treatment.",D079,Latex
+P1000,David Green,74,Miami,Diabetes,"Diagnosed with Diabetes in 2023, under ongoing treatment.",D021;D027;D063,Penicillin
