@@ -57,7 +57,7 @@ def format_patient_info_as_table(patient_strings):
 
 # === Agent 3: Send Email ===
 def send_email_to_caretaker(to_email, subject, html_body):
-    yag = yagmail.SMTP(user="16p114@gmail.com", password="uqiwztoyjvkvooag")
+    yag = yagmail.SMTP(user="16p114@gmail.com", password="xxxxxx")
     yag.send(to=to_email, subject=subject, contents=html_body)
 
 # === Crew Execution ===
